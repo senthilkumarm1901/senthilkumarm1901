@@ -64,7 +64,7 @@
 ### `$ WhoAmI --professional_identity` 
 
   
-<details> <summary> :ballot_box_with_check: How did my career start? </summary>
+<details> <summary> :question: How did I start my career? :point_down: </summary>
 
 <br>
   
@@ -75,7 +75,7 @@
 
 </details>
 
-<details> <summary> :ballot_box_with_check: When did I transition to NLP? </summary> <br>
+<details> <summary> :question: When did I transition to NLP? :point_down: </summary>
 
 <br>
   
@@ -86,7 +86,7 @@
 </details>
 
     
-<details> <summary> :ballot_box_with_check: What are my mottos? </summary>
+<details> <summary> :question: What are my mottos? :point_down: </summary>
 
 <br>
   
@@ -98,9 +98,9 @@
       - This is so that trust is enabled, long-term partnerships are forged and great results are achieved <br>
   </details>
 
-### `$ WhoAmI --personal_identity`   
+### `$ WhoAmI --personal_identity` 
 
-<details> <summary> :ballot_box_with_check: My Small World </summary>
+<details> <summary> :question:  My Small World :point_down: </summary>
  
  <br>
   
@@ -117,10 +117,19 @@
   
 </details>
 
+
+<details> <summary> :question: My Interests :point_down: </summary>
+
+  <br>
+  
+  - For last 2 years, I have spent (okay, wasted!) a lot of time on many must-watch TV series. Some iconic I must say. <br>
+      - My favorite genres: Sci-Fi, Comics, Legal/Medical thrillers and anything out of this world <br>
+  - My recent favorites among novels include many mythology fictional writings.
+</details>
+ <br>
+
 ### `$ WhoAmI --download_résumé`   
 
 - Here is my [résumé](https://github.com/senthilkumarm1901/senthilkumarm1901/blob/main/Senthil_Kumar_Resume_21Aug21.pdf) in pdf <br>
 
  [<img src="resume_snapshot_github.jpg" alt="Resume" width="150" height="250">](https://github.com/senthilkumarm1901/senthilkumarm1901/blob/main/Senthil_Kumar_Resume_21Aug21.pdf)
-
-
