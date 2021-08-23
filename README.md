@@ -106,13 +106,14 @@
   
   - I am here working happily in the Data Science field largely because of my `wife` . She guided my transition. She is a fellow analytics professional too <br>
       - She is on a break to take care of our possibly autistic todler son. <br>
-      - I am cognizant of this privilege that I am enjoying. <br>
+      - I am cognizant of this privilege that I am enjoying (me being able to work when she couldn't). <br>
+      - It has been particularly exacerbated by covid situation <br>
       - And we are working hard to ensure she gets back to active work soon <br>
- - Speaking of my son <br> 
+ - Speaking of my `son` <br> 
       - He is the apple of my eye <br>
       - He is learning slow on social interactions for a regular kid 
-      - but seem to have exemplary memory (well beyond his age!) <br>
-      - and grasps abstract things like shapes, numbers, letters, and words faster
+          - but seem to have exemplary memory (well beyond his age!) <br>
+          - and grasps abstract things like shapes, numbers, letters, and words faster
   
 </details>
 
