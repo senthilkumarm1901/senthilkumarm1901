@@ -158,7 +158,6 @@
       - My favorite genres: Sci-Fi, Comics, Legal/Medical thrillers and anything out of this world <br>
   - My recent favorites among novels include many mythology fictional writings.
 </details>
- <br>
 
 ### 👨‍💻 SenthilKumar@Profile:~$ `WhoAmI`  --download_résumé   
 
