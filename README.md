@@ -52,73 +52,105 @@
     ![FastAPI](https://img.shields.io/badge/-FastApi-orange?style=for-the-badge=white)
     ![Streamlit](https://img.shields.io/badge/-Streamlit-yellow?style=for-the-badge=black)
 
-**My Brief Background:** <br> 
-- `Total Work Exp`: 11+ years 
-    - `Since May 2018`: I have been working in `data science NLP projects` for several teams such as ML Centr of Excellence, Customer Experience and Operations Analytics at Ford Analytics division  <br>
-    - `From Apr'14 to Apr'18`: For 4 years, I had offered `Social Media Analytics` and Text Analysis solutions to a F100 Tech client of LatentView Analytics <br>
-    - `From Jul'10 to Dec'13`: I had started out providing customized Market Research (MR) at Beroe in the first 4 years of my career. <br>
-- `Academic Background`
-    - Bachelors in Engineering, Madras Institute of Technology, Chennai, India 8.6 CGPA, 2006-2010 <br>
-    - A state topper in state-level Engg Entrance exam in 2006 <br>
+### 👨‍💻 SenthilKumar@Profile:~$ `WhoAmI` --professional_identity --brief_overview
 
-### `$ WhoAmI --professional_identity` 
+<details><summary><code>Work Experience</code> 11+ years | Since 2010 :point_down: </summary> 
+ 
+- `May '18 - Present`: 
+	- I have been working in `data science NLP projects` at <i><b>Ford Analytics Division</b></i> for several teams such as 
+		- ML Centre of Excellence, 
+		- Customer Experience and 
+		- Operations Analytics <br>
+- `Apr'14 - Apr'18`: 
+	- For 4 years, I had offered `Social Media Analytics` and Text Analysis solutions <br> to a F100 Tech client of <i><b>LatentView Analytics</b></i> <br>
+- `Jul'10 - Mar'14`: 
+	- In the first 4 years of my career, I had worked in Market Research domain. 
+      - I had started out providing customized Market Research (MR) at <i><b>Beroe</b></i> for 3.5 years
+      - For a brief 3-month period, worked on providing supporting Market Research to Spend Analytics Reports at <i><b>Capgemini</b></i> <br>
+  
+  </details>
+  
+<details><summary><code>Academic Background</code>:point_down:</summary>
+ 
+- `2006 - 2010`:
+	- Bachelors in Engineering, 
+	- <b>Madras Institute of Technology</b>, Chennai, India 
+	- 8.6 CGPA <br>
+- `2004 - 2006`: 
+	- A state topper in state-level Engg Entrance exam in 2006 <br>
+	- Twelfth Grade (2006) - 95% | Tenth Grade (2004) - 92%
+
+
+ </details>
+  
+### 👨‍💻 SenthilKumar@Profile:~$ `WhoAmI` --professional_identity --verbose
 
   
-<details> <summary> :question: How did I start my career? :point_down: </summary>
+<details> <summary>How did I start my career? :point_down: </summary>
 
 <br>
   
 - Back in July 2010, I had started out providing customized Market Research (MR) in my first 4 years of my career. 
-    - Simply put, it was a "no-code work" involving cold-calling, speaking to experts and readig a lot of material to write actionable procurement intelligence reports . <br>
-    - This first job, right after my engineering undergraduation, had taught me the importance of tough-to-learn skills of communication - written, one-on-one, cold-calling, team presentations and many more. 
-    - I am glad I started out there for it sowed the seeds in me to crave the learning for softer-but-tougher skills in corporate world <br>
+  - Simply put, it was a `no-code work` 
+       - involving cold-calling, speaking to experts and reading a lot of secondary research material 
+       - to write actionable procurement intelligence reports . 
+  - This first job, right after my engineering undergraduation, 
+       - had taught me the importance of tough-to-learn soft skills 
+       - especially in communication be it written, one-on-one, cold-calling, team presentations and many more. 
 
 </details>
 
-<details> <summary> :question: When did I transition to NLP? :point_down: </summary>
+<details> <summary>When did I transition to NLP? :point_down: </summary>
 
 <br>
   
-- Since 2014, I have been in the field of Data Science, and the romance has not died down yet :). Largely because of the ever-interesting NLP opportunities that landed my way. <br>
+- Since 2014, I have been in the field of Data Science, and the romance has not died down yet :). 
+- Largely because of the interesting NLP opportunities that landed my way. <br>
 - I had primarily worked on `Social Media Analytics` at `LatentView` from 2014 to 2018 where <br> 
     - I had aided my F100 tech major client to effectively use social media insights in their marketing decisions
-- Ever since my stint as Data Scientist at Ford since May 2018, my technical learnings have taken a even better trajectory! 
+- Since May 2018, as a Data Scientist at Ford,
+    - my technical learnings in ML/DL and NLP have been on an upward trend! 
+
 </details>
 
     
-<details> <summary> :question: What are my mottos? :point_down: </summary>
+<details> <summary> What are my mottos? :point_down: </summary>
 
 <br>
   
+  Striving to follow the below mottos for professional betterment: <br> 
   - To keep **upskilling my technical knowledge** 
       - Firmly believe there are **Miles to go before I sleep** <br> 
-  - To **stand on the shoulders of the giants of open source** 
-      - In other words, be **applied practitioner** first, and not try to reinvent the wheel unless it has some learning/business benefit 
-  - To bring **the best collaborative, transparent, humble self in my interactions** with colleagues, 
+  - To bring **the best collaborative, transparent and importantly humble self in my interactions** with colleagues/friends, 
       - This is so that trust is enabled, long-term partnerships are forged and great results are achieved <br>
+   - To **stand on the shoulders of the giants of open source** 
+      - In other words, be **applied practitioner** first, and not try to reinvent the wheel unless it has some learning/business benefit 
   </details>
 
-### `$ WhoAmI --personal_identity` 
+### 👨‍💻 SenthilKumar@Profile:~$ `WhoAmI` --personal_identity --verbose
 
-<details> <summary> :question:  My Small World :point_down: </summary>
+<details> <summary> My Small World :point_down: </summary>
  
  <br>
   
-  - I am here working happily in the Data Science field largely because of my `wife` . She guided my transition. She is a fellow analytics professional too <br>
+  - I am here working happily in the Data Science field largely because of the sacrifice & guidance of my `wife` . 
+      - She guided my transition from Market Research to Data Science. She is a fellow analytics professional too <br>
       - She is on a break to take care of our possibly autistic todler son. <br>
       - I am cognizant of this privilege that I am enjoying (me being able to work when she couldn't). <br>
-      - It has been particularly exacerbated by covid situation <br>
-      - And we are working hard to ensure she gets back to active work soon <br>
+      - It has been particularly exacerbated by covid situation and personal losses <br>
+
  - Speaking of my `son` <br> 
       - He is the apple of my eye <br>
-      - He is learning slow on social interactions for a regular kid 
-          - but seem to have exemplary memory (well beyond his age!) <br>
-          - and grasps abstract things like shapes, numbers, letters, and words faster
+      - He seems to have exemplary memory, well beyond his age! (possibly biased opinion 🙂)   
+      - He grasps abstract things like shapes, numbers, letters, and words faster
+      - He could be in some autism spectrum (slower learning in social skills compared to kids of his age) <br>
+            - With my wife's leadership we diagnosed it early and <br>
+            - Hopefully we are acting on it early before it becoming too noticeable 
   
 </details>
 
 
-<details> <summary> :question: My Interests :point_down: </summary>
+<details> <summary> My Interests :point_down: </summary>
 
   <br>
   
@@ -128,7 +160,7 @@
 </details>
  <br>
 
-### `$ WhoAmI --download_résumé`   
+### 👨‍💻 SenthilKumar@Profile:~$ `WhoAmI`  --download_résumé   
 
 - Here is my [résumé](https://github.com/senthilkumarm1901/senthilkumarm1901/blob/main/Senthil_Kumar_Resume_21Aug21.pdf) in pdf <br>
 
