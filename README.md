@@ -133,7 +133,7 @@
 
 ### 👨‍💻 SenthilKumar@Profile:~$ `MyProjects` --professional 
 
-#### Project #1: <b>Aspect-based Sentiment Analysis
+#### Project #1: Aspect-based Sentiment Analysis
 	
 <blockquote>
  <details>
@@ -143,11 +143,52 @@
 	 
 |     Item                 |     Description                                                                                                                                                                                                                                           |
 |--------------------------|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-|     Project Objective    |                To build reusable **Sequence Text Classification ML Pipeline** <br>To convert Text --> **(Aspect, Sentiment)** pairs                                                                                                              |
-|      Example I/P         |     (**comment_id**, **comment**)<br> ⬇️ ⬇️ ⬇️ <br> (23, "The representative   who initially spoke with was very understanding but the dealer whom I was   transferred to later was rude and unhelpful. We were happy to have got a free   car wash however the service for just an oil change is too long.")     | 
-|      Example O/P         |     (**comment_id**, **sentence_start**, **sentence_end**, **sentence**, **Predicted_Aspect**, **Predicted_Sentiment**)<br> ⬇️ ⬇️ ⬇️ <br> (23,0,W, "The representative who initially spoke with was very understanding",`Contact_Center_Agent`,`Positive`)<br><br>(23,W+1,X,"but the dealer whom I was transferred to later was rude and unhelpful",`Dealer`,`Negative`)<br><br>(23,X+1,Y,"We were happy to have got a free car wash",`Car Wash`,`Positive`)<br><br>(23,Y+1,Z,"however the service for just an oil change is too long.",`Service_Timeliness`,`Negative`)<br><br>Legend: W, X, Y, and Z referring to token character indices | 
-|     Key Tools & Libraries    |                ![Python](https://img.shields.io/badge/-Python-green?style=for-the-badge=white) ![PySpark](https://img.shields.io/badge/-PySpark-green?style=for-the-badge=white) ![HuggingFace Transformers](https://img.shields.io/badge/-Transformers-blue?style=for-the-badge=white) ![SpaCy](https://img.shields.io/badge/-SpaCy-green?style=for-the-badge=white) ![PyTorch](https://img.shields.io/badge/-PyTorch-brown?style=for-the-badge=white) ![TFHub](https://img.shields.io/badge/-PySpark-green?style=for-the-badge=white) ![Docker](https://img.shields.io/badge/-Docker-green?style=for-the-badge=white)                                                                                                               |	
+|     **Project Objective**    |                To build reusable **Sequence Text Classification ML Pipeline** <br>To convert Text --> **(Aspect, Sentiment)** pairs                                                                                                              |
+|      **Example I/P**         |     (**comment_id**, **comment**)<br> ⬇️ ⬇️ ⬇️ <br> (23, "The representative   who initially spoke with was very understanding but the dealer whom I was   transferred to later was rude and unhelpful. We were happy to have got a free   car wash however the service for just an oil change is too long.")     | 
+|      **Example O/P**         |     (**comment_id**, **sentence_start**, **sentence_end**, **sentence**, **Predicted_Aspect**, **Predicted_Sentiment**)<br> ⬇️ ⬇️ ⬇️ <br> (23,0,W, "The representative who initially spoke with was very understanding",`Contact_Center_Agent`,`Positive`)<br><br>(23,W+1,X,"but the dealer whom I was transferred to later was rude and unhelpful",`Dealer`,`Negative`)<br><br>(23,X+1,Y,"We were happy to have got a free car wash",`Car Wash`,`Positive`)<br><br>(23,Y+1,Z,"however the service for just an oil change is too long.",`Service_Timeliness`,`Negative`)<br><br>Legend: W, X, Y, and Z referring to token character indices | 
+|     **Business Benefits**   |    - Our repo and its codes were used to build *30+ different Text Classification Models* <br>using the same ML pipeline/framework where each model had 20-30 classes to predict <br> - Our repo's framework and models warranted far less human annotated data (than using a typical ML model)                                                                                                               |	
+|     **Key Tools & Libraries**    |                ![Python](https://img.shields.io/badge/-Python-green?style=for-the-badge=white) ![PySpark](https://img.shields.io/badge/-PySpark-green?style=for-the-badge=white) ![HuggingFace Transformers](https://img.shields.io/badge/-Transformers-blue?style=for-the-badge=white) ![SpaCy](https://img.shields.io/badge/-SpaCy-green?style=for-the-badge=white) ![PyTorch](https://img.shields.io/badge/-PyTorch-brown?style=for-the-badge=white) ![TFHub](https://img.shields.io/badge/-PySpark-green?style=for-the-badge=white) ![Docker](https://img.shields.io/badge/-Docker-green?style=for-the-badge=white)                                                                                                               |
 	
+ </details>
+
+ <details>
+	 <summary> <b>Detailed Pipeline </b> </summary>
+	 
+ <br>
+	 
+ ![](images/proj1_model_training_image.png)
+	 
+  <details><summary>Text2Embedding Sub-pipeline</summary>
+ 
+  ![sub-pipeline1](images/proj1_text2embedding_image.png)
+
+  </details>
+
+  <details><summary>Efficient Annotation Sub-pipeline</summary>
+ 
+  ![sub-pipeline1](images/proj1_efficient_annotation_image.png)
+ 
+  </details>
+  
+ </details>
+</blockquote>
+	
+#### Project #2: Personally Identifiable Information Detection using NER
+	
+<blockquote>
+ <details>
+	 <summary> <b>Quick Overview </b> </summary>
+
+<br> 
+	 
+|     Item                 |     Description                                                                                                                                                                                                                                           |
+|--------------------------|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+|     **Project Objective**   |                                                                                                                              |
+|      **Example I/P**         |         | 
+|      **Example O/P**         |      | 
+|     **Business Benefits**    |                                                                                                                               |	
+|     **Key Tools & Libraries**    |                                                                                                                               |
+	 
  </details>
 
  <details>
@@ -211,7 +252,9 @@
 ### 👨‍💻 SenthilKumar@Profile:~$ `WhoAmI`  --download_résumé   
 
 <blockquote>
+   
 - Here is my [résumé](https://github.com/senthilkumarm1901/senthilkumarm1901/blob/main/Senthil_Kumar_Resume_21Aug21.pdf) in pdf <br>
 
- [<img src="resume_snapshot_github.jpg" alt="Resume" width="150" height="250">](https://github.com/senthilkumarm1901/senthilkumarm1901/blob/main/Senthil_Kumar_Resume_21Aug21.pdf)
+     [<img src="resume_snapshot_github.jpg" alt="Resume" width="150" height="250">](https://github.com/senthilkumarm1901/senthilkumarm1901/blob/main/Senthil_Kumar_Resume_21Aug21.pdf)
+'
 </blockquote>
