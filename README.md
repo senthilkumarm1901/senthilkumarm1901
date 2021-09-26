@@ -158,13 +158,13 @@
 	 
  ![](images/proj1_model_training_image.png)
 	 
-  <details><summary>Text2Embedding Sub-pipeline</summary>
+  <details><summary>*Text2Embedding Sub-pipeline</summary>
  
   ![sub-pipeline1](images/proj1_text2embedding_image.png)
 
   </details>
 
-  <details><summary>Efficient Annotation Sub-pipeline</summary>
+  <details><summary>*Efficient Annotation Sub-pipeline</summary>
  
   ![sub-pipeline1](images/proj1_efficient_annotation_image.png)
  
@@ -193,9 +193,8 @@
 
  <details>
 	 <summary> <b>Detailed Pipeline </b> </summary>
-	 
  <br>
-	  
+ - Work in Progress | To be updated soon
  </details>
 </blockquote>
 
