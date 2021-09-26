@@ -135,7 +135,7 @@
 
 <blockquote>
 
-<details><summary> Project #1: <b>Aspect-based Sentiment Analysis </summary>
+Project #1: <b>Aspect-based Sentiment Analysis
 <br>
 	
 <blockquote>
@@ -174,8 +174,6 @@
   
  </details>
 </blockquote>
-
-</details>
 
 
 
