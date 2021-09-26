@@ -127,6 +127,36 @@
       - In other words, be **applied practitioner** first, and not try to reinvent the wheel unless it has some learning/business benefit 
   </details>
 
+### 👨‍💻 SenthilKumar@Profile:~$ `MyProjects` --professional 
+
+<details><summary> Project #1: <b>Sentence Classification</b> ML Models </summary>
+<br>
+	
+<blockquote>
+ <details>
+	 <summary> <b>Quick Overview </b> </summary>
+  
+|     Item                 |     Description                                                                                                                                                                                                                                           |
+|--------------------------|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+|     Project Objective    |                To build reusable **Sequence Classification ML Pipeline** <br>To convert Text --> **(Aspect, Sentiment)** pairs                                                                                                              |
+|      Example I/P         |     (**comment_id**, **comment**)<br> ⬇️ ⬇️ ⬇️ <br> (23, "The representative   who initially spoke with was very understanding but the dealer whom I was   transferred to later was rude and unhelpful. We were happy to have got a free   car wash however the service for just an oil change is too long.")     | 
+|      Example O/P         |     (**comment_id**, **sentence_start**, **sentence_end**, **sentence**, **Predicted_Aspect**, **Predicted_Sentiment**)<br> ⬇️ ⬇️ ⬇️ <br> (23,0,W, "The representative who initially spoke with was very understanding",`Contact_Center_Agent`,`Positive`)<br><br>(23,W+1,X,"but the dealer whom I was transferred to later was rude and unhelpful",`Dealer`,`Negative`)<br><br>(23,X+1,Y,"We were happy to have got a free car wash",`Car Wash`,`Positive`)<br><br>(23,Y+1,Z,"however the service for just an oil change is too long.",`Service_Timeliness`,`Negative`)<br><br>Legend: W, X, Y, and Z referring to token character indices | 
+|     Key Tools & Libraries    |                ![Python](https://img.shields.io/badge/-Python-green?style=for-the-badge=white) ![PySpark](https://img.shields.io/badge/-PySpark-green?style=for-the-badge=white) ![HuggingFace Transformers](https://img.shields.io/badge/-Transformers-blue?style=for-the-badge=white) ![SpaCy](https://img.shields.io/badge/-SpaCy-green?style=for-the-badge=white) ![PyTorch](https://img.shields.io/badge/-PyTorch-brown?style=for-the-badge=white) ![TFHub](https://img.shields.io/badge/-PySpark-green?style=for-the-badge=white) ![Docker](https://img.shields.io/badge/-Docker-green?style=for-the-badge=white)                                                                                                               |	
+	
+	 
+ </details>
+
+ <details>
+	 <summary> <b>Detailed Pipeline </b> </summary>
+  
+ </details>
+</blockquote>
+
+</details>
+
+
+
+
 ### 👨‍💻 SenthilKumar@Profile:~$ `WhoAmI` --personal_identity --verbose
 
 <details> <summary> My Small World :point_down: </summary>
