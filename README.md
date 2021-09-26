@@ -133,8 +133,7 @@
 
 ### 👨‍💻 SenthilKumar@Profile:~$ `MyProjects` --professional 
 
-Project #1: <b>Aspect-based Sentiment Analysis
-<br>
+#### Project #1: <b>Aspect-based Sentiment Analysis
 	
 <blockquote>
  <details>
