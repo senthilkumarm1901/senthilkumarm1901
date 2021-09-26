@@ -199,7 +199,7 @@
  </details>
 </blockquote>
 
-#### Project #3: Unsupervised Clustering Pipeline for Social Media and Survey Data
+#### Project #3: Unsupervised Search & Clustering Pipeline
 	
 <blockquote>
  <details>
@@ -209,20 +209,13 @@
 	 
 |     Item                 |     Description                                                                                                                                                                                                                                           |
 |--------------------------|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-|     **Project Objective**   |                                                                                                                              |
-|      **Example I/P**         |         | 
-|      **Example O/P**         |      | 
-|     **Business Benefits**    |                                                                                                                               |	
-|     **Key Tools & Libraries**    |                                                                                                                               |
+|     **Project Objective**   |  <ul><li>To derive actionable insights faster from unlabeled text corpus using unsupervised clustering techniques</li></ul>   |
+|     **Overall Methodology**   |   <li>Is the text corpus ~ corpora like `Wiki`,`Brown Corpus`, `Web Forum discussions` <br> or such generic test used for pre-training Transfer learning (TL) models?<ul><li>Yes: <b>TL-based Embedding & Hard Clustering</b></li><li>No, it is a <b>domain-specific data</b> <br>uncommon to find anything similar in open-source datasets <br>(e.g.: Technician logs, domain-specific survey):<br>Employ the best of Traditional Embedding and Topic Modeling</li></ul></li> |
+|     **DL-based Sentence Embedding AND Hard Clustering**    | <ul><li><b>TL-based Embedding & Hard Clustering</b>:<ul><li><b>Embedding</b>: Any Sentence Embedding technique<ul><li>InferSent</li><li>SentenceBERT</li><li>Universal Sentence Coder(used in my proj)</li><li>Any other</li></ul></li><li><b>Search</b>: Approx. Nearest Neighbours (ANNoy) on top of Embedding</li><li><b>Clustering</b>: KMeans OR HDBSCAN</li></ul></li></ul> |
+|     **Traditional Embedding AND <br> Topic Modeling**    | <ul><li><b>Domain-specific Data</b>:<ul><li><b>Simple-but-Effective (arguable) Traditional Embedding Used</b>:<ul><li>Custom Vectorizer Pipeline<ul><li>Spacy-tokenized</li><li>Lemmatized</li><li>TF-IDF Vectorizor</li></ul></li></li></ul><li><b>Topic Modeling Variants We Used:</b><ul><li>Simple LDA</li><li>Semi-supervised or Guided or Seeded LDA</li></ul></li><li><b>pyLDAvis Visualization</b><ul><li>Inter-topic Distance Map & Topic Occurence Freq</li><li>per-Topic Word Distribution</li></ul></li></ul></li></ul> |
 	 
  </details>
 
- <details>
-	 <summary> <b>Detailed Pipeline </b> </summary>
-	 
- <br>
-	  
- </details>
 </blockquote>
 
 	
