@@ -52,7 +52,7 @@
     ![FastAPI](https://img.shields.io/badge/-FastAPI-orange?style=for-the-badge=white)
     ![Streamlit](https://img.shields.io/badge/-Streamlit-yellow?style=for-the-badge=black)
 
-### 👨‍💻 SenthilKumar@Profile:~$ `WhoAmI` --professional_identity --brief_overview
+### 👨‍💻 SenthilKumar@Profile:~$ `WhoAmI` --filter=professional_life --explanation_length=short --explanation_type=factual
 <blockquote>
 <details><summary><code>Work Experience</code> 11+ years | Since 2010  </summary> 
  
@@ -85,7 +85,7 @@
 
 </blockquote>
  
-### 👨‍💻 SenthilKumar@Profile:~$ `WhoAmI` --professional_identity --verbose
+### 👨‍💻 SenthilKumar@Profile:~$ `WhoAmI` --filter=professional_life --explanation_length=verbose --explanation_type=opinionated
 <blockquote>
   
 <details> <summary>How did I start my career?  </summary>
@@ -131,7 +131,7 @@
 
 </blockquote>
 
-### 👨‍💻 SenthilKumar@Profile:~$ `MyProjects` --professional 
+### 👨‍💻 SenthilKumar@Profile:~$ `KeyProjects` --filter=professional_life --explanation_type=factual --timeline=Since2019 
 
 #### Project #1: Aspect-based Sentiment Analysis
 	
@@ -211,16 +211,15 @@
 |--------------------------|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 |     **Project Objective**   |  <ul><li>To derive actionable insights faster from unlabeled text corpus using unsupervised clustering techniques</li></ul>   |
 |     **Overall Methodology**   |   <li>Is the text corpus ~ corpora like `Wiki`,`Brown Corpus`, `Web Forum discussions` <br> or such generic test used for pre-training Transfer learning (TL) models?<ul><li>Yes: <b>TL-based Embedding & Hard Clustering</b></li><li>No, it is a <b>domain-specific data</b> <br>uncommon to find anything similar in open-source datasets <br>(e.g.: Technician logs, domain-specific survey):<br>Employ the best of Traditional Embedding and Topic Modeling</li></ul></li> |
-|     **DL-based Sentence Embedding AND Hard Clustering**    | <ul><li><b>TL-based Embedding & Hard Clustering</b>:<ul><li><b>Embedding</b>: Any Sentence Embedding technique<ul><li>InferSent</li><li>SentenceBERT</li><li>Universal Sentence Coder(used in my proj)</li><li>Any other</li></ul></li><li><b>Search</b>: Approx. Nearest Neighbours (ANNoy) on top of Embedding</li><li><b>Clustering</b>: KMeans OR HDBSCAN</li></ul></li></ul> |
-|     **Traditional Embedding AND <br> Topic Modeling**    | <ul><li><b>Domain-specific Data</b>:<ul><li><b>Simple-but-Effective (arguable) Traditional Embedding Used</b>:<ul><li>Custom Vectorizer Pipeline<ul><li>Spacy-tokenized</li><li>Lemmatized</li><li>TF-IDF Vectorizor</li></ul></li></li></ul><li><b>Topic Modeling Variants We Used:</b><ul><li>Simple LDA</li><li>Semi-supervised or Guided or Seeded LDA</li></ul></li><li><b>pyLDAvis Visualization</b><ul><li>Inter-topic Distance Map & Topic Occurence Freq</li><li>per-Topic Word Distribution</li></ul></li></ul></li></ul> |
+|     Methodology1:<br>**DL-based Sentence Embedding AND Hard Clustering**    | <ul><li><b>TL-based Embedding & Hard Clustering</b>:<ul><li><b>Embedding</b>: Any Sentence Embedding technique<ul><li>InferSent</li><li>SentenceBERT</li><li>Universal Sentence Coder(used in my proj)</li><li>Any other</li></ul></li><li><b>Search</b>: Approx. Nearest Neighbours (ANNoy) on top of Embedding</li><li><b>Clustering</b>: KMeans OR HDBSCAN</li></ul></li></ul> |
+|     Methodology2:<br>**Traditional Embedding AND <br> Topic Modeling**    | <ul><li><b>Domain-specific Data</b>:<ul><li><b>Simple-but-Effective (arguable) Traditional Embedding Used</b>:<ul><li>Custom Vectorizer Pipeline<ul><li>Spacy-tokenized</li><li>Lemmatized</li><li>TF-IDF Vectorizor</li></ul></li></li></ul><li><b>Topic Modeling Variants We Used:</b><ul><li>Simple LDA</li><li>Semi-supervised or Guided or Seeded LDA</li></ul></li><li><b>pyLDAvis Visualization</b><ul><li>Inter-topic Distance Map & Topic Occurence Freq</li><li>per-Topic Word Distribution</li></ul></li></ul></li></ul> |
 	 
  </details>
 
 </blockquote>
 
 	
-### 👨‍💻 SenthilKumar@Profile:~$ `WhoAmI` --personal_identity --verbose
-
+### 👨‍💻 SenthilKumar@Profile:~$ `WhoAmI` --filter=personal_life --explanation_length=verbose --explanation_type=opinionated
 <blockquote>
 
 <details> <summary> My Small World  </summary>
@@ -250,11 +249,13 @@
   
   - For last 2 years, I have spent (okay, wasted!) a lot of time on many must-watch TV series. Some iconic I must say. <br>
       - My favorite genres: Sci-Fi, Comics, Legal/Medical thrillers and anything out of this world <br>
-  - My recent favorites among novels include many mythology fictional writings.
+  - My favorites among novels include many mythology fictional writings <br>
+  - An ardent tea lover! 
+
 </details>
 </blockquote>
 	
-### 👨‍💻 SenthilKumar@Profile:~$ `WhoAmI`  --download_résumé   
+### 👨‍💻 SenthilKumar@Profile:~$ `WhoAmI` --filter=professional_life --explanation_type=factual --view=pdf_résumé   
 
 <blockquote>
    
