@@ -52,7 +52,7 @@
     ![FastAPI](https://img.shields.io/badge/-FastAPI-orange?style=for-the-badge=white)
     ![Streamlit](https://img.shields.io/badge/-Streamlit-yellow?style=for-the-badge=black)
 
-### 👨‍💻 SenthilKumar@Profile:~$ `WhoAmI` --filter=professional_life --explanation_length=short --explanation_type=factual
+#### 👨‍💻 SenthilKumar@Profile:~$ `WhoAmI` --filter=professional_life --explanation_length=short --explanation_type=factual
 <blockquote>
 <details><summary><code>Work Experience</code> 11+ years | Since 2010  </summary> 
  
@@ -85,7 +85,7 @@
 
 </blockquote>
  
-### 👨‍💻 SenthilKumar@Profile:~$ `WhoAmI` --filter=professional_life --explanation_length=verbose --explanation_type=opinionated
+#### 👨‍💻 SenthilKumar@Profile:~$ `WhoAmI` --filter=professional_life --explanation_length=verbose --explanation_type=opinionated
 <blockquote>
   
 <details> <summary>How did I start my career?  </summary>
@@ -131,9 +131,9 @@
 
 </blockquote>
 
-### 👨‍💻 SenthilKumar@Profile:~$ `KeyProjects` --filter=professional_life --explanation_type=factual --timeline=Since2019 
+#### 👨‍💻 SenthilKumar@Profile:~$ `KeyProjects` --filter=professional_life --explanation_type=factual --timeline=Since2019 
 
-#### Project #1: Aspect-based Sentiment Analysis
+##### Project #1: Aspect-based Sentiment Analysis
 	
 <blockquote>
  <details>
@@ -173,7 +173,7 @@
  </details>
 </blockquote>
 	
-#### Project #2: Personally Identifiable Information (PII) Detection using NER
+##### Project #2: Personally Identifiable Information (PII) Detection using NER
 	
 <blockquote>
  <details>
@@ -199,7 +199,7 @@
  </details>
 </blockquote>
 
-#### Project #3: Unsupervised Search & Clustering Pipeline
+##### Project #3: Unsupervised Search & Clustering Pipeline
 	
 <blockquote>
  <details>
@@ -219,7 +219,7 @@
 </blockquote>
 
 	
-### 👨‍💻 SenthilKumar@Profile:~$ `WhoAmI` --filter=personal_life --explanation_length=verbose --explanation_type=opinionated
+#### 👨‍💻 SenthilKumar@Profile:~$ `WhoAmI` --filter=personal_life --explanation_length=verbose --explanation_type=opinionated
 <blockquote>
 
 <details> <summary> My Small World  </summary>
@@ -255,7 +255,7 @@
 </details>
 </blockquote>
 	
-### 👨‍💻 SenthilKumar@Profile:~$ `WhoAmI` --filter=professional_life --explanation_type=factual --view=pdf_résumé   
+#### 👨‍💻 SenthilKumar@Profile:~$ `WhoAmI` --filter=professional_life --explanation_type=factual --view=pdf_résumé   
 
 <blockquote>
    
