@@ -195,21 +195,33 @@
 	 <summary> <b>Detailed Pipeline </b> </summary>
 	 
  <br>
-	 
- ![](images/proj1_model_training_image.png)
-	 
-  <details><summary>Text2Embedding Sub-pipeline</summary>
- 
-  ![sub-pipeline1](images/proj1_text2embedding_image.png)
+	  
+ </details>
+</blockquote>
 
-  </details>
+#### Project #3: Unsupervised Clustering Pipeline for Social Media and Survey Data
+	
+<blockquote>
+ <details>
+	 <summary> <b>Quick Overview </b> </summary>
 
-  <details><summary>Efficient Annotation Sub-pipeline</summary>
- 
-  ![sub-pipeline1](images/proj1_efficient_annotation_image.png)
- 
-  </details>
-  
+<br> 
+	 
+|     Item                 |     Description                                                                                                                                                                                                                                           |
+|--------------------------|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+|     **Project Objective**   |                                                                                                                              |
+|      **Example I/P**         |         | 
+|      **Example O/P**         |      | 
+|     **Business Benefits**    |                                                                                                                               |	
+|     **Key Tools & Libraries**    |                                                                                                                               |
+	 
+ </details>
+
+ <details>
+	 <summary> <b>Detailed Pipeline </b> </summary>
+	 
+ <br>
+	  
  </details>
 </blockquote>
 
