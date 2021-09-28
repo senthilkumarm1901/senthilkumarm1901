@@ -193,11 +193,9 @@
 
  <details>
 	 <summary> <b>Detailed Pipeline </b> </summary>
- <br>	 
+ 	 
  ![](images/proj2_pii_ner_training_image.png)	 
  
- <br>
- - Work in Progress | To be updated soon
  </details>
 </blockquote>
 
