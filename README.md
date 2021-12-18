@@ -30,7 +30,7 @@
        - uses Sklearn in case of ML models and PyTorch ecosystem for DL
        - uses Pandas, Altair, Jupyter and Streamlit for Data Explorations and Visualization
 
-   - mostly a (self proclaimed) NLP Fanboy but loves data in general too
+   - mostly a (self proclaimed) NLP Fanboy but loves analysing data in general
 
 ## I typically build ...
 
