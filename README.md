@@ -3,7 +3,7 @@
 </h1>
 
 <p align='center'>
-  A Data Scientist from Chennai, India working on Natural Language Processing Projects.
+  I am an Applied Data Scientist working on Natural Language Processing (NLP) focused Analytics Projects.
 </p>
 
 <p align='center'>
@@ -20,72 +20,79 @@
 
 </p>
 
-- I have `extensively used` tools like <br>
-    ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-    ![Git](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
-    ![Shell](https://img.shields.io/badge/Linux/WSL-121011?style=for-the-badge&logo=gnu-bash&logoColor=white)
-    ![Markdown](https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white)
-    ![Jupyter](https://img.shields.io/badge/Jupyter-F37626.svg?&style=for-the-badge&logo=Jupyter&logoColor=white)
-    ![PyCharm](https://img.shields.io/badge/pycharm-143?style=for-the-badge&logo=pycharm&logoColor=black&color=black&labelColor=green)
-  
-- I have `working knowledge` of following tools for ML Projects execution <br>
-    ![Docker](https://img.shields.io/badge/-Docker-green?style=for-the-badge=white)
-    ![Kubernetes](https://img.shields.io/badge/-Kubernetes-blue?style=for-the-badge=white)
-    ![Poetry](https://img.shields.io/badge/-Poetry-brown?style=for-the-badge=white)
-    ![Venv](https://img.shields.io/badge/-Venv-black?style=for-the-badge=white)
-    ![Conda](https://img.shields.io/badge/-Conda-orange?style=for-the-badge=white)
+## I am ...
 
-- I have `extensively used` the following Python libraries for my tasks <br>
-    ![SpaCy](https://img.shields.io/badge/-SpaCy-green?style=for-the-badge=white)
-    ![HuggingFace Transformers](https://img.shields.io/badge/-Transformers-blue?style=for-the-badge=white)
-    ![PyTorch](https://img.shields.io/badge/-PyTorch-brown?style=for-the-badge=white)
-    ![Pandas](https://img.shields.io/badge/-Pandas-black?style=for-the-badge=white)
-    ![regex](https://img.shields.io/badge/-RegEx-orange?style=for-the-badge=white)
-    ![sklearn](https://img.shields.io/badge/-Sklearn-orange?style=for-the-badge=white)
+   - a **Specialist in NLP** who has
+       - extensively applied/implementable NLP skills
+       - decent mathematical knowledge on the fundamentals of ML/DL and NLP
 
-- I have `working knowledge` of the following Python libraries which were used in various project-specific needs <br>
-    ![PySpark](https://img.shields.io/badge/-PySpark-green?style=for-the-badge=white)
-    ![Altair/Seaborn](https://img.shields.io/badge/-Seaborn/Altair-blue?style=for-the-badge=white)
-    ![GenSim](https://img.shields.io/badge/-GenSim-brown?style=for-the-badge=white)
-    ![FastText](https://img.shields.io/badge/-FastText-black?style=for-the-badge=white)
-    ![tfhub](https://img.shields.io/badge/-TFHub-orange?style=for-the-badge=white)
-    ![FastAPI](https://img.shields.io/badge/-FastAPI-orange?style=for-the-badge=white)
-    ![Streamlit](https://img.shields.io/badge/-Streamlit-yellow?style=for-the-badge=black)
+   - a Generalist, who implements Python-based Data Science applications, which
+       - uses Sklearn in case of ML models and PyTorch ecosystem for DL
+       - uses Pandas, Altair, Jupyter and Streamlit for Data Explorations and Visualization
 
-#### 👨‍💻 SenthilKumar@Profile:~$ `WhoAmI` --filter=professional_life --explanation_length=short --explanation_type=factual
-<blockquote>
-<details><summary><code>Work Experience</code> 11+ years | Since 2010  </summary> 
+   - mostly a (self proclaimed) NLP Fanboy but loves data in general too
+
+## I typically build ...
+
+   - NLP applications with state-of-the-art **transfer learning (Feature Extraction and Fine-tuning)**
+   - customized text preprocessing logic using computational linguistic techniques wherever it helps!
+   - re-usable, replicable code-base runnable in **docker containers**
+   - applications deployed using CLI apps and **FastAPI urls or Streamlit UIs in Kubernetes**
+   - modularized code structure and packaged as `from some_internal_package import what_you_need`
+   - codebase committed to **GitHub** for co-development and issue-resolution
+   - codebase explaining the functioning with “how-to-use” Jupyter Notebooks 
+   - codebase with docstrings and pytests, subjected to **Pull Requests** when multiple developers are involved
+   - codes adopting at least basic multiprocessing in CPUs and when needed adopted Spark
+
+
+
  
-- `May '18 - Present`: 
-	- I have been working in `data science NLP projects` at <i><b>Ford Analytics Division</b></i> for several teams such as 
-		- ML Centre of Excellence, 
-		- Customer Experience and 
-		- Operations Analytics <br>
-- `Apr'14 - Apr'18`: 
-	- For 4 years, I had offered `Social Media Analytics` and Text Analysis solutions <br> to a F100 Tech client of <i><b>LatentView Analytics</b></i> <br>
-- `Jul'10 - Mar'14`: 
-	- In the first 4 years of my career, I had worked in Market Research domain. 
-      - I had started out providing customized Market Research (MR) at <i><b>Beroe</b></i> for 3.5 years
-      - For a brief 3-month period, worked on providing supporting Market Research to Spend Analytics Reports at <i><b>Capgemini</b></i> <br>
-  
-  </details>
-  
-<details><summary><code>Academic Background</code></summary>
- 
-- `2006 - 2010`:
-	- Bachelors in Engineering, 
-	- <b>Madras Institute of Technology</b>, Chennai, India 
-	- 8.6 CGPA <br>
-- `2004 - 2006`: 
-	- A state topper in state-level Engg Entrance exam in 2006 <br>
-	- Twelfth Grade (2006) - 95% | Tenth Grade (2004) - 92%
 
 
- </details>
+
+
+#### 👨‍💻 SenthilKumar@Profile:~$ `WhoAmI` 
+
+**Current Role**: <br>
+   - Since May'18, I have been working in data science `NLP projects` at <i><b>Ford Analytics Division</i></b> <br> 
+   - Worked for teams such as Artificial Intelligence Advancement Center, Customer Experience and Operations Analytics
+
+<br>
+
+**Previous Roles**: <br>
+   - For 4 years, I had offered `Social Media Analytics` and Text Analysis solutions to a F100 Tech client of <i><b>LatentView Analytics</b></i> <br>
+   - In the first 4 years of my career, I had worked in Market Research domain. 
+
+<br>
+
+**Work Experience**: <br>
+   - Total Experience: 11+ Years | 2010 - Present <br>
+   - NLP Experience: 7+ Years | 2014 - Present <br>
+   - Market Research Experience: 4 Years | 2010 - 2014 <br>
+
+<br>
+
+**Academic Background**: <br>
+   - B.E. Madras Institute of Technology, 8.6 CGPA | 2006 - 2010
+   - State topper in State-level Eng. Entrance Exam | 2006
+   - Twelfth Grade - 95% | 2006 ; Tenth Grade - 92% | 2004
+
+<br>
+
+**Key Skills**:
+- Python | NLP via Rules, Linguistics and ML Techniques | Deep Learning for NLP | ML Projects Execution
+
+
+
+|                  | `Extensively Used`                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                 | `Working Knowledge`                                                                                                                                                                                                                                                                                                                                                                                                                                |
+|------------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| Tools             | ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge=white) ![Git](https://img.shields.io/badge/GitHub-100000?style=for-the-badge=white) <br> ![Shell](https://img.shields.io/badge/Linux/WSL-121011?style=for-the-badge=white) ![Markdown](https://img.shields.io/badge/Markdown-000000?style=for-the-badge=white) <br> ![Jupyter](https://img.shields.io/badge/Jupyter-F37626.svg?&style=for-the-badge=white) ![PyCharm](https://img.shields.io/badge/pycharm-143?style=for-the-badge=green) ![Docker](https://img.shields.io/badge/-Docker-green?style=for-the-badge=white) | ![Kubernetes](https://img.shields.io/badge/-Kubernetes-blue?style=for-the-badge=white) ![Poetry](https://img.shields.io/badge/-Poetry-brown?style=for-the-badge=white) ![Venv](https://img.shields.io/badge/-Venv-black?style=for-the-badge=white) ![Conda](https://img.shields.io/badge/-Conda-orange?style=for-the-badge=white)                                                                                                                  |
+| Python Libraries | ![SpaCy](https://img.shields.io/badge/-SpaCy-green?style=for-the-badge=white) ![HuggingFace Transformers](https://img.shields.io/badge/-Transformers-blue?style=for-the-badge=white) <br> ![PyTorch](https://img.shields.io/badge/-PyTorch-brown?style=for-the-badge=white) ![Pandas](https://img.shields.io/badge/-Pandas-black?style=for-the-badge=white)<br> ![regex](https://img.shields.io/badge/-RegEx-orange?style=for-the-badge=white) ![sklearn](https://img.shields.io/badge/-Sklearn-orange?style=for-the-badge=white)<br>                                                              | ![PySpark](https://img.shields.io/badge/-PySpark-green?style=for-the-badge=white) ![Altair/Seaborn](https://img.shields.io/badge/-Seaborn/Altair-blue?style=for-the-badge=white)<br> ![GenSim](https://img.shields.io/badge/-GenSim-brown?style=for-the-badge=white) ![FastAPI](https://img.shields.io/badge/-FastAPI-orange?style=for-the-badge=white) ![Streamlit](https://img.shields.io/badge/-Streamlit-yellow?style=for-the-badge=black)<br> |
 
 </blockquote>
  
-#### 👨‍💻 SenthilKumar@Profile:~$ `WhoAmI` --filter=professional_life --explanation_length=verbose --explanation_type=opinionated
+#### 👨‍💻 SenthilKumar@Profile:~$ `WhoAmI` --verbose
+
 <blockquote>
   
 <details> <summary>How did I start my career?  </summary>
@@ -131,7 +138,7 @@
 
 </blockquote>
 
-#### 👨‍💻 SenthilKumar@Profile:~$ `KeyProjects` --filter=professional_life --explanation_type=factual --timeline=Since2019 
+#### 👨‍💻 SenthilKumar@Profile:~$ `KeyProjects` --timeline=Since2019 
 
 ##### Project #1: Aspect-based Sentiment Analysis
 	
@@ -220,7 +227,7 @@
 </blockquote>
 
 	
-#### 👨‍💻 SenthilKumar@Profile:~$ `WhoAmI` --filter=personal_life --explanation_length=verbose --explanation_type=opinionated
+#### 👨‍💻 SenthilKumar@Profile:~$ `WhatIsMyPersonalStory` --verbose
 <blockquote>
 
 <details> <summary> My Small World  </summary>
@@ -256,7 +263,7 @@
 </details>
 </blockquote>
 	
-#### 👨‍💻 SenthilKumar@Profile:~$ `WhoAmI` --filter=professional_life --explanation_type=factual --view=pdf_résumé   
+#### 👨‍💻 SenthilKumar@Profile:~$ `WhoAmI` --type=pdf_résumé   
 
 <blockquote>
    
