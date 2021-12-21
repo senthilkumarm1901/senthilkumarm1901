@@ -277,7 +277,7 @@
  </details>
 </blockquote>
 
-##### Project #3: Unsupervised Search & Clustering Pipeline
+##### Project #3: Unsupervised Clustering Pipeline
 	
 <blockquote>
  <details>
