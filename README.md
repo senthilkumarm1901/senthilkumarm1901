@@ -23,36 +23,56 @@
 ## I am ...
 
    - a **Specialist in NLP** who has
-       - extensively applied/implementable NLP skills
-       - decent mathematical knowledge on the fundamentals of ML/DL and NLP
+       - extensively applied NLP techniques for text data 
+       - decent mathematical knowledge on the fundamentals of Statistics/Probability, ML/DL and NLP
 
-   - a Generalist, who implements Python-based Data Science applications, which
-       - uses Sklearn in case of ML models and PyTorch ecosystem for DL
-       - uses Pandas, Altair, Jupyter and Streamlit for Data Explorations and Visualization
+   - a Generalist, who builds Python-based Data Science applications/solutions, which
+       - use Sklearn in case of ML models and PyTorch ecosystem for DL
+       - use Pandas, Altair, Jupyter and Streamlit for Data Explorations and Visualization
 
-   - mostly a (self proclaimed) NLP Fanboy but loves analysing data in general
+   - a (self proclaimed) NLP Fanboy but loves analysing data in general
 
 ## I typically build ...
 
-   - NLP applications with state-of-the-art **transfer learning (Feature Extraction and Fine-tuning)**
-   - customized text preprocessing logic using computational linguistic techniques wherever it helps!
-   - re-usable, replicable code-base runnable in **docker containers**
-   - applications deployed using CLI apps and **FastAPI urls or Streamlit UIs in Kubernetes**
-   - modularized code structure and packaged as `from some_internal_package import what_you_need`
-   - codebase committed to **GitHub** for co-development and issue-resolution
-   - codebase explaining the functioning with “how-to-use” Jupyter Notebooks 
-   - codebase with docstrings and pytests, subjected to **Pull Requests** when multiple developers are involved
-   - codes adopting at least basic multiprocessing in CPUs and when needed adopted Spark
+   - NLP applications with 
+       - state-of-the-art **transfer learning (Feature Extraction and Fine-tuning)**
+       - customized text preprocessing logic using computational linguistic techniques wherever it helps!
+       - deployed using CLI apps and **FastAPI REST APIs** or **Streamlit UIs** in Kubernetes
+   - codebase
+       - which are reusable, replicable and runnable in **docker containers**
+       - which are modularized and packages as `from some_internal_package import what_you_need`
+       - committed to **GitHub** for co-development and issue-resolution
+       - with docstrings and pytests, subjected to **Pull Requests** when multiple developers are involved
+       - adopting at least basic multiprocessing in CPUs and when needed adopted Spark
 
+## When I am coding, I typically use ...
 
+   - WSL for local development, and linux for GPU-powered, dockerized applications development
+   - predominantly PyCharm (Professional) for remote development but use opensource VS code for local development
+   - GitHub to commit codes and use markdown for documentation
+   - Jupyter Notebook to help others use my codes or my CLI apps 
 
- 
+## When I am not coding, I typically use ...
 
+   - OneNote for taking lots and lots of notes from emails, meetings and websites and  
+   - Slack for communicating, weekly updates and jotting down reminder messages to self
+   - Microsoft PPT for conveying data stories/insights to superiors/team
 
+## My professional roles when I did not code include ...
 
+   - Directly managing the delivery of Social Media Analytics projects of 8+ members in my stint at `LatentView Analytics` 
+   - Being a Technical Mentor/Trainer enhancing the NLP/Python expertise of fellow team members or reportees 
 
-#### 👨‍💻 SenthilKumar@Profile:~$ `WhoAmI` 
+## ssh `SenthilKumar@Profile` 
 
+#### 👨‍💻 SenthilKumar@Profile:~$ `cd WhoAmI`
+
+<details><summary> 👨‍💻 <b>SenthilKumar@Profile:~WhoAmI$</b> <code>cat CareerGraph.txt</code> </summary>
+
+<br>
+
+<blockquote>
+	
 **Current Role**: 
    - Since May'18, I have been working in data science `NLP projects` at <i><b>Ford Analytics Division</i></b> <br> 
    - Worked for teams such as Artificial Intelligence Advancement Center, Customer Experience and Operations Analytics
@@ -90,8 +110,10 @@
 | Python Libraries | ![SpaCy](https://img.shields.io/badge/-SpaCy-green?style=for-the-badge=white) ![HuggingFace Transformers](https://img.shields.io/badge/-Transformers-blue?style=for-the-badge=white) <br> ![PyTorch](https://img.shields.io/badge/-PyTorch-brown?style=for-the-badge=white) ![Pandas](https://img.shields.io/badge/-Pandas-black?style=for-the-badge=white)<br> ![regex](https://img.shields.io/badge/-RegEx-orange?style=for-the-badge=white) ![sklearn](https://img.shields.io/badge/-Sklearn-orange?style=for-the-badge=white)<br>                                                              | ![PySpark](https://img.shields.io/badge/-PySpark-green?style=for-the-badge=white) ![Altair/Seaborn](https://img.shields.io/badge/-Seaborn/Altair-blue?style=for-the-badge=white)<br> ![GenSim](https://img.shields.io/badge/-GenSim-brown?style=for-the-badge=white) ![FastAPI](https://img.shields.io/badge/-FastAPI-orange?style=for-the-badge=white) ![Streamlit](https://img.shields.io/badge/-Streamlit-yellow?style=for-the-badge=black)<br> |
 
 </blockquote>
- 
-#### 👨‍💻 SenthilKumar@Profile:~$ `WhoAmI` --verbose
+	
+</details>
+
+<details><summary> 👨‍💻 <b>SenthilKumar@Profile:~WhoAmI$</b> <code>cat MyProfessionalStory.txt</code> </summary>
 
 <blockquote>
   
@@ -137,8 +159,57 @@
   </details>
 
 </blockquote>
+</details>
 
-#### 👨‍💻 SenthilKumar@Profile:~$ `KeyProjects` --timeline=Since2019 
+<details><summary> 👨‍💻 <b>SenthilKumar@Profile:~WhoAmI$</b> <code>cat MyPersonalStory.txt</code> </summary>
+<blockquote>
+
+<details> <summary> My Small World  </summary>
+ 
+ <br>
+  
+  - I am here working happily in the Data Science field largely because of the sacrifice & guidance of my `wife` . 
+      - She guided my transition from Market Research to Data Science. She is a fellow analytics professional too <br>
+      - She is on a break to take care of our possibly autistic todler son. <br>
+      - I am cognizant of this privilege that I am enjoying (me being able to work when she couldn't). <br>
+      - It has been particularly exacerbated by covid situation and personal losses <br>
+
+ - Speaking of my `son` <br> 
+      - He is the apple of my eye <br>
+      - He seems to have exemplary memory, well beyond his age! (possibly biased opinion 🙂)   
+      - He grasps abstract things like shapes, numbers, letters, and words faster
+      - He could be in some autism spectrum (slower learning in social skills compared to kids of his age) <br>
+            - With my wife's leadership we diagnosed it early and <br>
+            - Hopefully we are acting on it early before it becoming too noticeable 
+  
+</details>
+
+
+<details> <summary> My Interests  </summary>
+
+  <br>
+  
+  - For last 2 years, I have spent (okay, wasted!) a lot of time on many must-watch TV series. Some iconic I must say. <br>
+      - My favorite genres: Sci-Fi, Comics, Legal/Medical thrillers and anything out of this world <br>
+  - My favorites among novels include many mythology fictional writings <br>
+  - An ardent tea lover! 
+
+</details>
+</blockquote>
+</details>
+
+<details><summary> 👨‍💻 <b>SenthilKumar@Profile:~WhoAmI$</b> <code>cat MyPDFResume.txt</code> </summary>
+
+<blockquote>
+   
+- Here is my [résumé](https://github.com/senthilkumarm1901/senthilkumarm1901/blob/main/Senthil_Kumar_Resume.pdf) in pdf <br>
+
+     [<img src="resume_snapshot_github.jpg" alt="Resume" width="150" height="250">](https://github.com/senthilkumarm1901/senthilkumarm1901/blob/main/Senthil_Kumar_Resume.pdf)
+'
+</blockquote>
+</details>
+	
+## A sample list of my key recent projects ... 
 
 ##### Project #1: Aspect-based Sentiment Analysis
 	
@@ -221,54 +292,5 @@
 |     Methodology1:<br>**DL-based Sentence Embedding AND Hard Clustering**    | <ul><li><b>TL-based Embedding & Hard Clustering</b>:<ul><li><b>Embedding</b>: Any Sentence Embedding technique<ul><li>InferSent</li><li>SentenceBERT</li><li>Universal Sentence Coder(used in my proj)</li><li>Any other</li></ul></li><li><b>Search</b>: Approx. Nearest Neighbours (ANNoy) on top of Embedding</li><li><b>Clustering</b>: KMeans OR HDBSCAN</li></ul></li></ul> |
 |     Methodology2:<br>**Traditional Embedding AND <br> Topic Modeling**    | <ul><li><b>Domain-specific Data</b>:<ul><li><b>Simple-but-Effective (arguable) Traditional Embedding Used</b>:<ul><li>Custom Vectorizer Pipeline<ul><li>Spacy-tokenized</li><li>Lemmatized</li><li>TF-IDF Vectorizor</li></ul></li></li></ul><li><b>Topic Modeling Variants We Used:</b><ul><li>Simple LDA</li><li>Semi-supervised or Guided or Seeded LDA</li></ul></li><li><b>pyLDAvis Visualization</b><ul><li>Inter-topic Distance Map & Topic Occurence Freq</li><li>per-Topic Word Distribution</li></ul></li></ul></li></ul> |
 |     **Key Tools & Libraries**    |  ![Python](https://img.shields.io/badge/-Python-green?style=for-the-badge=white) ![HuggingFace Transformers](https://img.shields.io/badge/-Transformers-blue?style=for-the-badge=white) ![SpaCy](https://img.shields.io/badge/-SpaCy-green?style=for-the-badge=white) ![Docker](https://img.shields.io/badge/-Docker-green?style=for-the-badge=white) ![Kubernetes](https://img.shields.io/badge/-Kubernetes-blue?style=for-the-badge=white) ![Streamlit](https://img.shields.io/badge/-Streamlit-yellow?style=for-the-badge=black)                                                                                                                             |
-	 
- </details>
-
-</blockquote>
-
-	
-#### 👨‍💻 SenthilKumar@Profile:~$ `WhatIsMyPersonalStory` --verbose
-<blockquote>
-
-<details> <summary> My Small World  </summary>
- 
- <br>
-  
-  - I am here working happily in the Data Science field largely because of the sacrifice & guidance of my `wife` . 
-      - She guided my transition from Market Research to Data Science. She is a fellow analytics professional too <br>
-      - She is on a break to take care of our possibly autistic todler son. <br>
-      - I am cognizant of this privilege that I am enjoying (me being able to work when she couldn't). <br>
-      - It has been particularly exacerbated by covid situation and personal losses <br>
-
- - Speaking of my `son` <br> 
-      - He is the apple of my eye <br>
-      - He seems to have exemplary memory, well beyond his age! (possibly biased opinion 🙂)   
-      - He grasps abstract things like shapes, numbers, letters, and words faster
-      - He could be in some autism spectrum (slower learning in social skills compared to kids of his age) <br>
-            - With my wife's leadership we diagnosed it early and <br>
-            - Hopefully we are acting on it early before it becoming too noticeable 
-  
 </details>
-
-
-<details> <summary> My Interests  </summary>
-
-  <br>
-  
-  - For last 2 years, I have spent (okay, wasted!) a lot of time on many must-watch TV series. Some iconic I must say. <br>
-      - My favorite genres: Sci-Fi, Comics, Legal/Medical thrillers and anything out of this world <br>
-  - My favorites among novels include many mythology fictional writings <br>
-  - An ardent tea lover! 
-
-</details>
-</blockquote>
-	
-#### 👨‍💻 SenthilKumar@Profile:~$ `WhoAmI` --type=pdf_résumé   
-
-<blockquote>
-   
-- Here is my [résumé](https://github.com/senthilkumarm1901/senthilkumarm1901/blob/main/Senthil_Kumar_Resume.pdf) in pdf <br>
-
-     [<img src="resume_snapshot_github.jpg" alt="Resume" width="150" height="250">](https://github.com/senthilkumarm1901/senthilkumarm1901/blob/main/Senthil_Kumar_Resume.pdf)
-'
 </blockquote>
