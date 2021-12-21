@@ -7,7 +7,7 @@
 </p>
 
 <p align='center'>
-  Reach me below 
+  You can reach me via
 </p>
 
 <p align='center'>
@@ -20,7 +20,7 @@
 
 </p>
 
-## I am ...
+## :man_in_tuxedo: I am ...
 
    - a **Specialist in NLP** who has
        - extensively applied NLP techniques for text data 
@@ -32,7 +32,7 @@
 
    - a (self proclaimed) NLP Fanboy but loves analysing data in general
 
-## I typically build ...
+## :hammer_and_wrench: I typically build ...
 
    - NLP applications with 
        - state-of-the-art **transfer learning (Feature Extraction and Fine-tuning)**
@@ -45,29 +45,31 @@
        - with docstrings and pytests, subjected to **Pull Requests** when multiple developers are involved
        - adopting at least basic multiprocessing in CPUs and when needed adopted Spark
 
-## When I am coding, I typically use ...
+## :crossed_swords: When I am coding, I typically use ...
 
    - WSL for local development, and linux for GPU-powered, dockerized applications development
    - predominantly PyCharm (Professional) for remote development but use opensource VS code for local development
    - GitHub to commit codes and use markdown for documentation
    - Jupyter Notebook to help others use my codes or my CLI apps 
 
-## When I am not coding, I typically use ...
+## :bow_and_arrow: When I am not coding, I typically use ...
 
    - OneNote for taking lots and lots of notes from emails, meetings and websites and  
    - Slack for communicating, weekly updates and jotting down reminder messages to self
    - Microsoft PPT for conveying data stories/insights to superiors/team
 
-## My professional roles when I did not code include ...
+## :bearded_person: When I have not been coding, I have donned the hat of ...
 
-   - Directly managing the delivery of Social Media Analytics projects of 8+ members in my stint at `LatentView Analytics` 
-   - Being a Technical Mentor/Trainer enhancing the NLP/Python expertise of fellow team members or reportees 
+   - A `People Manager` 
+       - directly managing the delivery of Social Media Analytics projects of 8+ members in my stint at `LatentView Analytics` 
+   - A `Technical Mentor/Trainer`
+       - enhancing the NLP/Python expertise of fellow team members or reportees 
 
-## ssh `SenthilKumar@Profile` 
+## 👨‍💻 ssh `SenthilKumar@Profile` 
 
-#### 👨‍💻 SenthilKumar@Profile:~$ `cd WhoAmI`
+#### 👨‍💻 SenthilKumar@Profile:~$ `cd WhoAmI` :question::heavy_exclamation_mark:
 
-<details><summary> 👨‍💻 <b>SenthilKumar@Profile:~WhoAmI$</b> <code>cat CareerGraph.txt</code> </summary>
+<details><summary> 👨‍💻 <b>SenthilKumar@Profile:~WhoAmI$</b> <code>cat CareerGraph.txt</code> :chart_with_upwards_trend: </summary>
 
 <br>
 
@@ -113,7 +115,7 @@
 	
 </details>
 
-<details><summary> 👨‍💻 <b>SenthilKumar@Profile:~WhoAmI$</b> <code>cat MyProfessionalStory.txt</code> </summary>
+<details><summary> 👨‍💻 <b>SenthilKumar@Profile:~WhoAmI$</b> <code>cat MyProfessionalStory.txt</code> :person_in_tuxedo: </summary>
 
 <blockquote>
   
@@ -161,7 +163,7 @@
 </blockquote>
 </details>
 
-<details><summary> 👨‍💻 <b>SenthilKumar@Profile:~WhoAmI$</b> <code>cat MyPersonalStory.txt</code> </summary>
+<details><summary> 👨‍💻 <b>SenthilKumar@Profile:~WhoAmI$</b> <code>cat MyPersonalStory.txt</code> :family_man_woman_boy: </summary>
 <blockquote>
 
 <details> <summary> My Small World  </summary>
@@ -198,7 +200,7 @@
 </blockquote>
 </details>
 
-<details><summary> 👨‍💻 <b>SenthilKumar@Profile:~WhoAmI$</b> <code>cat MyPDFResume.txt</code> </summary>
+<details><summary> 👨‍💻 <b>SenthilKumar@Profile:~WhoAmI$</b> <code>cat MyPDFResume.txt</code> :scroll: </summary>
 
 <blockquote>
    
@@ -209,7 +211,7 @@
 </blockquote>
 </details>
 	
-## A sample list of my key recent projects ... 
+## :office_worker: A sample list of my key recent projects ... 
 
 ##### Project #1: Aspect-based Sentiment Analysis
 	
