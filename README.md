@@ -53,26 +53,26 @@
 
 #### 👨‍💻 SenthilKumar@Profile:~$ `WhoAmI` 
 
-**Current Role**: <br>
+**Current Role**: 
    - Since May'18, I have been working in data science `NLP projects` at <i><b>Ford Analytics Division</i></b> <br> 
    - Worked for teams such as Artificial Intelligence Advancement Center, Customer Experience and Operations Analytics
 
 <br>
 
-**Previous Roles**: <br>
+**Previous Roles**: 
    - For 4 years, I had offered `Social Media Analytics` and Text Analysis solutions to a F100 Tech client of <i><b>LatentView Analytics</b></i> <br>
    - In the first 4 years of my career, I had worked in Market Research domain. 
 
 <br>
 
-**Work Experience**: <br>
+**Work Experience**: 
    - Total Experience: 11+ Years | 2010 - Present <br>
    - NLP Experience: 7+ Years | 2014 - Present <br>
    - Market Research Experience: 4 Years | 2010 - 2014 <br>
 
 <br>
 
-**Academic Background**: <br>
+**Academic Background**:
    - B.E. Madras Institute of Technology, 8.6 CGPA | 2006 - 2010
    - State topper in State-level Eng. Entrance Exam | 2006
    - Twelfth Grade - 95% | 2006 ; Tenth Grade - 92% | 2004
