@@ -22,41 +22,37 @@
 
 ## :man_in_tuxedo: I am ...
 
-   - a **Specialist in NLP** who has
+   - a **Specialist in NLP** who has ...
        - extensively applied NLP techniques for text data 
        - decent mathematical knowledge on the fundamentals of Statistics/Probability, ML/DL and NLP
-
-   - a Generalist, who builds Python-based Data Science applications/solutions, which
+   - a Generalist who builds **Python-based Data Science applications/solutions** which ...
        - use Sklearn in case of ML models and PyTorch ecosystem for DL
        - use Pandas, Altair, Jupyter and Streamlit for Data Explorations and Visualization
 
-   - a (self proclaimed) NLP Fanboy but loves analysing data in general
-
 ## :hammer_and_wrench: I typically build ...
 
-   - NLP applications with 
-       - state-of-the-art **transfer learning (Feature Extraction and Fine-tuning)**
+   - NLP applications with ...
+       - state-of-the-art **transfer learning models** (Feature Extraction and Fine-tuning)
        - customized text preprocessing logic using computational linguistic techniques wherever it helps!
-       - deployed using CLI apps and **FastAPI REST APIs** or **Streamlit UIs** in Kubernetes
-   - codebase
-       - which are reusable, replicable and runnable in **docker containers**
-       - which are modularized and packages as `from some_internal_package import what_you_need`
+       - deployed using Python CLI apps, **FastAPI REST APIs** or **Streamlit UIs** in Kubernetes
+   - codebase ...
+       - which is reusable, replicable and runnable in **docker containers**
+       - which is modularized and packaged (as `from some_internal_package import what_you_need`)
        - committed to **GitHub** for co-development and issue-resolution
        - with docstrings and pytests, subjected to **Pull Requests** when multiple developers are involved
-       - adopting at least basic multiprocessing in CPUs and when needed adopted Spark
 
-## :crossed_swords: When I am coding, I typically use ...
+## :computer: While coding, I typically use tools such as ...
 
-   - WSL for local development, and linux for GPU-powered, dockerized applications development
-   - predominantly PyCharm (Professional) for remote development but use opensource VS code for local development
-   - GitHub to commit codes and use markdown for documentation
-   - Jupyter Notebook to help others use my codes or my CLI apps 
+   - **WSL** for local development, and linux machines for GPU-powered, dockerized applications development
+   - predominantly **PyCharm (Professional)** for remote development but use opensource **VS code** for local development
+   - **Jupyter Notebook** to learn coding concepts 
+   - **draw.io**, **mermaid** and **markdown** for flowcharts and documentation purposes
 
-## :bow_and_arrow: When I am not coding, I typically use ...
+## :bow_and_arrow: While not coding, I typically use `tools` such as ...
 
-   - OneNote for taking lots and lots of notes from emails, meetings and websites and  
-   - Slack for communicating, weekly updates and jotting down reminder messages to self
-   - Microsoft PPT for conveying data stories/insights to superiors/team
+   - **OneNote** for taking lots of notes from emails, meetings and websites and  
+   - **Slack** for communicating, weekly updates and jotting down reminder messages to self
+   - **Microsoft PPT** for conveying data stories/insights to non-developer team mates or superiors
 
 ## :bearded_person: When I have not been coding, I have donned the hat of ...
 
