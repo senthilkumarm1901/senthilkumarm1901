@@ -238,7 +238,7 @@
 
 ## 👨‍💻 ssh `SenthilKumar@WannaKnowMore` 
 
-<details><summary> 👨‍💻 <b>SenthilKumar@Profile:~WhoAmI$</b> <code>cat MyProfessionalStory.txt</code> :person_in_tuxedo: </summary>
+<details><summary> 👨‍💻 <b>SenthilKumar@WannaKnowMore:~WhoAmI$</b> <code>cat MyProfessionalStory.txt</code> :person_in_tuxedo: </summary>
 
 <blockquote>
   
@@ -286,7 +286,7 @@
 </blockquote>
 </details>
 
-<details><summary> 👨‍💻 <b>SenthilKumar@Profile:~WhoAmI$</b> <code>cat MyPersonalStory.txt</code> :family_man_woman_boy: </summary>
+<details><summary> 👨‍💻 <b>SenthilKumar@WannaKnowMore:~WhoAmI$</b> <code>cat MyPersonalStory.txt</code> :family_man_woman_boy: </summary>
 <blockquote>
 
 <details> <summary> My Small World  </summary>
@@ -323,7 +323,7 @@
 </blockquote>
 </details>
 
-<details><summary> 👨‍💻 <b>SenthilKumar@Profile:~WhoAmI$</b> <code>cat MyPDFResume.txt</code> :scroll: </summary>
+<details><summary> 👨‍💻 <b>SenthilKumar@WannaKnowMore:~WhoAmI$</b> <code>cat MyPDFResume.txt</code> :scroll: </summary>
 
 <blockquote>
    
