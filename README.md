@@ -48,13 +48,13 @@
    - **Jupyter Notebook** to learn coding concepts 
    - **draw.io**, **mermaid** and **markdown** for flowcharts and documentation purposes
 
-## :bow_and_arrow: While not coding, I typically use `tools` such as ...
+## :bow_and_arrow: While not coding, I typically use tools such as ...
 
    - **OneNote** for taking lots of notes from emails, meetings and websites and  
    - **Slack** for communicating, weekly updates and jotting down reminder messages to self
    - **Microsoft PPT** for conveying data stories/insights to non-developer team mates or superiors
 
-## :bearded_person: When I have not been coding, I have donned the hat of ...
+## :bearded_person: Apart from being `a Data Science Developer`, I have donned the hat of ...
 
    - A `People Manager` 
        - directly managing the delivery of Social Media Analytics projects of 8+ members in my stint at `LatentView Analytics` 
