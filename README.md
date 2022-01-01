@@ -61,55 +61,182 @@
    - A `Technical Mentor/Trainer`
        - enhancing the NLP/Python expertise of fellow team members or reportees 
 
-## 👨‍💻 ssh `SenthilKumar@Profile` 
-
-#### 👨‍💻 SenthilKumar@Profile:~$ `cd WhoAmI` :question::heavy_exclamation_mark:
-
-<details><summary> 👨‍💻 <b>SenthilKumar@Profile:~WhoAmI$</b> <code>cat CareerGraph.txt</code> :chart_with_upwards_trend: </summary>
-
-<br>
+## :chart_with_upwards_trend: My Career Graph ...
 
 <blockquote>
 	
-**Current Role**: 
+    
+<details> <summary> <b>Current Role</b> </summary>
+
+<br>
+	
    - Since May'18, I have been working in data science `NLP projects` at <i><b>Ford Analytics Division</i></b> <br> 
    - Worked for teams such as Artificial Intelligence Advancement Center, Customer Experience and Operations Analytics
 
-<br>
+</details>
 
-**Previous Roles**: 
+<details> <summary> <b>Previous Roles</b> </summary>
+
+<br>
+	
    - For 4 years, I had offered `Social Media Analytics` and Text Analysis solutions to a F100 Tech client of <i><b>LatentView Analytics</b></i> <br>
    - In the first 4 years of my career, I had worked in Market Research domain. 
 
+</details>
+
+<details> <summary> <b>Work Experience Summary</b> </summary>
+
 <br>
 
-**Work Experience**: 
    - Total Experience: 11+ Years | 2010 - Present <br>
    - NLP Experience: 7+ Years | 2014 - Present <br>
    - Market Research Experience: 4 Years | 2010 - 2014 <br>
 
+	
+	| Company            | Designation                               | Timeline         |
+	|--------------------|-------------------------------------------|------------------|
+	| Ford Motor Company | Deputy Manager                            | Nov'19 - Present |
+	|                    | Senior Analyst                            | May'18 - Oct'19  |
+	| LatentView         | Assistant Manager                         | Oct'16 - Apr'18  |
+	|                    | Senior Analyst                            | Apr'14 - Sep'16  |
+	| CapGemini          | Senior Consultant                         | Jan'14 - Mar'14  |
+	| Beroe              | Analyst<br>Senior Analyst<br>Lead Analyst | Jul'10 - Dec'13  |
+	
+</details>
+
+<details> <summary> <b>Key Technical Skills</b> </summary>
+
 <br>
-
-**Academic Background**:
-   - B.E. Madras Institute of Technology, 8.6 CGPA | 2006 - 2010
-   - State topper in State-level Eng. Entrance Exam | 2006
-   - Twelfth Grade - 95% | 2006 ; Tenth Grade - 92% | 2004
-
-<br>
-
-**Key Skills**:
+	
 - Python | NLP via Rules, Linguistics and ML Techniques | Deep Learning for NLP | ML Projects Execution
 
 
 
-|                  | `Extensively Used`                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                 | `Working Knowledge`                                                                                                                                                                                                                                                                                                                                                                                                                                |
-|------------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| Tools             | ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge=white) ![Git](https://img.shields.io/badge/GitHub-100000?style=for-the-badge=white) <br> ![Shell](https://img.shields.io/badge/Linux/WSL-121011?style=for-the-badge=white) ![Markdown](https://img.shields.io/badge/Markdown-000000?style=for-the-badge=white) <br> ![Jupyter](https://img.shields.io/badge/Jupyter-F37626.svg?&style=for-the-badge=white) ![PyCharm](https://img.shields.io/badge/pycharm-143?style=for-the-badge=green) ![Docker](https://img.shields.io/badge/-Docker-green?style=for-the-badge=white) | ![Kubernetes](https://img.shields.io/badge/-Kubernetes-blue?style=for-the-badge=white) ![Poetry](https://img.shields.io/badge/-Poetry-brown?style=for-the-badge=white) ![Venv](https://img.shields.io/badge/-Venv-black?style=for-the-badge=white) ![Conda](https://img.shields.io/badge/-Conda-orange?style=for-the-badge=white)                                                                                                                  |
-| Python Libraries | ![SpaCy](https://img.shields.io/badge/-SpaCy-green?style=for-the-badge=white) ![HuggingFace Transformers](https://img.shields.io/badge/-Transformers-blue?style=for-the-badge=white) <br> ![PyTorch](https://img.shields.io/badge/-PyTorch-brown?style=for-the-badge=white) ![Pandas](https://img.shields.io/badge/-Pandas-black?style=for-the-badge=white)<br> ![regex](https://img.shields.io/badge/-RegEx-orange?style=for-the-badge=white) ![sklearn](https://img.shields.io/badge/-Sklearn-orange?style=for-the-badge=white)<br>                                                              | ![PySpark](https://img.shields.io/badge/-PySpark-green?style=for-the-badge=white) ![Altair/Seaborn](https://img.shields.io/badge/-Seaborn/Altair-blue?style=for-the-badge=white)<br> ![GenSim](https://img.shields.io/badge/-GenSim-brown?style=for-the-badge=white) ![FastAPI](https://img.shields.io/badge/-FastAPI-orange?style=for-the-badge=white) ![Streamlit](https://img.shields.io/badge/-Streamlit-yellow?style=for-the-badge=black)<br> |
+	|                  | `Extensively Used`                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                 | `Working Knowledge`                                                                                                                                                                                                                                                                                                                                                                                                                                |
+	|------------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+	| Tools             | ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge=white) ![Git](https://img.shields.io/badge/GitHub-100000?style=for-the-badge=white) <br> ![Shell](https://img.shields.io/badge/Linux/WSL-121011?style=for-the-badge=white) ![Markdown](https://img.shields.io/badge/Markdown-000000?style=for-the-badge=white) <br> ![Jupyter](https://img.shields.io/badge/Jupyter-F37626.svg?&style=for-the-badge=white) ![PyCharm](https://img.shields.io/badge/pycharm-143?style=for-the-badge=green) ![Docker](https://img.shields.io/badge/-Docker-green?style=for-the-badge=white) | ![Kubernetes](https://img.shields.io/badge/-Kubernetes-blue?style=for-the-badge=white) ![Poetry](https://img.shields.io/badge/-Poetry-brown?style=for-the-badge=white) ![Venv](https://img.shields.io/badge/-Venv-black?style=for-the-badge=white) ![Conda](https://img.shields.io/badge/-Conda-orange?style=for-the-badge=white)                                                                                                                  |
+	| Python Libraries | ![SpaCy](https://img.shields.io/badge/-SpaCy-green?style=for-the-badge=white) ![HuggingFace Transformers](https://img.shields.io/badge/-Transformers-blue?style=for-the-badge=white) <br> ![PyTorch](https://img.shields.io/badge/-PyTorch-brown?style=for-the-badge=white) ![Pandas](https://img.shields.io/badge/-Pandas-black?style=for-the-badge=white)<br> ![regex](https://img.shields.io/badge/-RegEx-orange?style=for-the-badge=white) ![sklearn](https://img.shields.io/badge/-Sklearn-orange?style=for-the-badge=white)<br>                                                              | ![PySpark](https://img.shields.io/badge/-PySpark-green?style=for-the-badge=white) ![Altair/Seaborn](https://img.shields.io/badge/-Seaborn/Altair-blue?style=for-the-badge=white)<br> ![GenSim](https://img.shields.io/badge/-GenSim-brown?style=for-the-badge=white) ![FastAPI](https://img.shields.io/badge/-FastAPI-orange?style=for-the-badge=white) ![Streamlit](https://img.shields.io/badge/-Streamlit-yellow?style=for-the-badge=black)<br> |
 
+</details>
+	
 </blockquote>
 	
+
+## :man_student: My Educational Background ...
+
+<blockquote>
+<details> <summary> <b>Academic Background</b> </summary>
+
+<br>
+	
+   - B.E. Madras Institute of Technology, 8.6 CGPA | 2006 - 2010
+   - State topper in State-level Eng. Entrance Exam | 2006
+   - Twelfth Grade - 95% | 2006 ; Tenth Grade - 92% | 2004
+
 </details>
+	
+<details> <summary> <b>Course Work</b> </summary>
+
+<br> 
+
+- `Google Cloud Platform Big Data and Machine Learning Fundamentals`| **Coursera-GCP** | Apr 2021 <br>
+- 5 course `DeepLearning` Specialization | **Coursera-Deeplearning.ai** | Nov'18 - May'19 <br>
+- Applied ML and Applied Text Mining Courses | **Coursera-University of Michigan** | Dec'17 - Jan'18 <br>
+- Stanford Online Certification Course on SQL | **Stanford University Online** | 2015
+	
+</details>
+	
+</blockquote>
+
+## :office_worker: A sample list of my key recent projects ... 
+
+##### Project #1: Aspect-based Sentiment Analysis
+	
+<blockquote>
+ <details>
+	 <summary> <b>Quick Overview </b> </summary>
+
+<br> 
+	 
+|     Item                 |     Description                                                                                                                                                                                                                                           |
+|--------------------------|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+|     **Project Objective**    |                To build reusable **Sequence Text Classification ML Pipeline** <br>To convert Text --> **(Aspect, Sentiment)** pairs                                                                                                              |
+|      **Example I/P**<br>(a madeup example)         |     (**comment_id**, **comment**)<br> ⬇️ ⬇️ ⬇️ <br> (23, "The representative   who initially spoke with was very understanding but the dealer whom I was   transferred to later was rude and unhelpful. We were happy to have got a free   car wash however the service for just an oil change is too long.")     | 
+|      **Example O/P**         |     (**comment_id**, **sentence_start**, **sentence_end**, **sentence**, **Predicted_Aspect**, **Predicted_Sentiment**)<br> ⬇️ ⬇️ ⬇️ <br> (23,0,W, "The representative who initially spoke with was very understanding",`Contact_Center_Agent`,`Positive`)<br><br>(23,W+1,X,"but the dealer whom I was transferred to later was rude and unhelpful",`Dealer`,`Negative`)<br><br>(23,X+1,Y,"We were happy to have got a free car wash",`Car Wash`,`Positive`)<br><br>(23,Y+1,Z,"however the service for just an oil change is too long.",`Service_Timeliness`,`Negative`)<br><br>Legend: W, X, Y, and Z referring to token character indices | 
+|     **Business/Technical<br> Benefits**   |    <ul><li>Our repo and its codes were used to build *30+ different Text Classification Models* <br>using the same ML pipeline/framework where each model had 20-30 classes to predict</li><li>Our repo's framework and models warranted far less human annotated data (than using a typical ML model)</li></ul>|	
+|     **Key Tools & Libraries**    |                ![Python](https://img.shields.io/badge/-Python-green?style=for-the-badge=white) ![PySpark](https://img.shields.io/badge/-PySpark-green?style=for-the-badge=white) ![HuggingFace Transformers](https://img.shields.io/badge/-Transformers-blue?style=for-the-badge=white) ![SpaCy](https://img.shields.io/badge/-SpaCy-green?style=for-the-badge=white) ![PyTorch](https://img.shields.io/badge/-PyTorch-brown?style=for-the-badge=white) ![TFHub](https://img.shields.io/badge/-PySpark-green?style=for-the-badge=white)  ![Docker](https://img.shields.io/badge/-Docker-green?style=for-the-badge=white)                                                                                                               |
+	
+ </details>
+
+ <details>
+	 <summary> <b>Detailed Pipeline </b> </summary>
+	 
+ <br>
+	 
+ ![](images/proj1_model_training_image.png)
+	 
+  <details><summary>*Text2Embedding Sub-pipeline</summary>
+ 
+  ![sub-pipeline1](images/proj1_text2embedding_image.png)
+
+  </details>
+
+  <details><summary>*Efficient Annotation Sub-pipeline</summary>
+ 
+  ![sub-pipeline1](images/proj1_efficient_annotation_image.png)
+ 
+  </details>
+  
+ </details>
+</blockquote>
+	
+##### Project #2: Personally Identifiable Information (PII) Detection using NER
+	
+<blockquote>
+ <details>
+	 <summary> <b>Quick Overview </b> </summary>
+
+<br> 
+	 
+|     Item                 |     Description                                                                                                                                                                                                                                           |
+|--------------------------|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+|     **Project Objective**   |       - To replace PII in text data<br> - To build a Named Entity Recognition (NER) system that can detect PII in text comments |
+|      **Example I/P** <br>(a madeup example)       |   Please drop my 2019 Focus after service to 2109 Hershell Hollow Road, Nashville, Tennesse. You can reach me at +1 854-789-1234 or gary_kirsten1978@gmail.com - Gary Kirsten  | 
+|      **Example O/P**         |  Please drop my `{{MODEL_YEAR}}` `{{NAMEPLATE}}` after service to `{{ADDRESS}}`. You can reach me at `{{PHONE_NUMBER}}` or `{{EMAIL}}` - `{{PERSON_NAME}}`    | 
+|     **Business/Technical<br> Benefits**    |   <ul><li>PII Annonymization can aid in less restricted use of the data</li><li>Spacy's Roberta-base Model circumvented the truncation restriction of the transformers max sequence length problem. Refer [Link](https://spacy.io/api/transformer#span_getters)</li></ul>|	
+|     **Key Tools & Libraries**    |  ![Python](https://img.shields.io/badge/-Python-green?style=for-the-badge=white) ![HuggingFace Transformers](https://img.shields.io/badge/-Transformers-blue?style=for-the-badge=white) ![SpaCy](https://img.shields.io/badge/-SpaCy-green?style=for-the-badge=white) ![Poetry](https://img.shields.io/badge/-Poetry-brown?style=for-the-badge=white) ![Docker](https://img.shields.io/badge/-Docker-green?style=for-the-badge=white) ![Kubernetes](https://img.shields.io/badge/-Kubernetes-blue?style=for-the-badge=white) ![FastAPI](https://img.shields.io/badge/-FastAPI-orange?style=for-the-badge=white)                                                                                                                             |
+	 
+ </details>
+
+ <details>
+	 <summary> <b>Detailed Pipeline </b> </summary>
+ 	 
+ ![](images/proj2_pii_ner_training_image.png)	 
+ 
+ </details>
+</blockquote>
+
+##### Project #3: Unsupervised Clustering Pipeline
+	
+<blockquote>
+ <details>
+	 <summary> <b>Quick Overview </b> </summary>
+
+<br> 
+	 
+|     Item                 |     Description                                                                                                                                                                                                                                           |
+|--------------------------|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+|     **Project Objective**   |  <ul><li>To derive actionable insights faster from unlabeled text corpus using unsupervised clustering techniques</li></ul>   |
+|     **Overall Methodology**   |   <li>Is the text corpus ~ corpora like `Wiki`,`Brown Corpus`, `Web Forum discussions` <br> or such generic test used for pre-training Transfer learning (TL) models?<ul><li>Yes: <b>TL-based Embedding & Hard Clustering</b></li><li>No, it is a <b>domain-specific data</b> <br>uncommon to find anything similar in open-source datasets <br>(e.g.: Technician logs, domain-specific survey):<br>Employ the best of Traditional Embedding and Topic Modeling</li></ul></li> |
+|     Methodology1:<br>**DL-based Sentence Embedding AND Hard Clustering**    | <ul><li><b>TL-based Embedding & Hard Clustering</b>:<ul><li><b>Embedding</b>: Any Sentence Embedding technique<ul><li>InferSent</li><li>SentenceBERT</li><li>Universal Sentence Coder(used in my proj)</li><li>Any other</li></ul></li><li><b>Search</b>: Approx. Nearest Neighbours (ANNoy) on top of Embedding</li><li><b>Clustering</b>: KMeans OR HDBSCAN</li></ul></li></ul> |
+|     Methodology2:<br>**Traditional Embedding AND <br> Topic Modeling**    | <ul><li><b>Domain-specific Data</b>:<ul><li><b>Simple-but-Effective (arguable) Traditional Embedding Used</b>:<ul><li>Custom Vectorizer Pipeline<ul><li>Spacy-tokenized</li><li>Lemmatized</li><li>TF-IDF Vectorizor</li></ul></li></li></ul><li><b>Topic Modeling Variants We Used:</b><ul><li>Simple LDA</li><li>Semi-supervised or Guided or Seeded LDA</li></ul></li><li><b>pyLDAvis Visualization</b><ul><li>Inter-topic Distance Map & Topic Occurence Freq</li><li>per-Topic Word Distribution</li></ul></li></ul></li></ul> |
+|     **Key Tools & Libraries**    |  ![Python](https://img.shields.io/badge/-Python-green?style=for-the-badge=white) ![HuggingFace Transformers](https://img.shields.io/badge/-Transformers-blue?style=for-the-badge=white) ![SpaCy](https://img.shields.io/badge/-SpaCy-green?style=for-the-badge=white) ![Docker](https://img.shields.io/badge/-Docker-green?style=for-the-badge=white) ![Kubernetes](https://img.shields.io/badge/-Kubernetes-blue?style=for-the-badge=white) ![Streamlit](https://img.shields.io/badge/-Streamlit-yellow?style=for-the-badge=black)                                                                                                                             |
+</details>
+</blockquote>
+
+
+
+## 👨‍💻 ssh `SenthilKumar@WannaKnowMore` 
 
 <details><summary> 👨‍💻 <b>SenthilKumar@Profile:~WhoAmI$</b> <code>cat MyProfessionalStory.txt</code> :person_in_tuxedo: </summary>
 
@@ -206,89 +333,3 @@
 '
 </blockquote>
 </details>
-	
-## :office_worker: A sample list of my key recent projects ... 
-
-##### Project #1: Aspect-based Sentiment Analysis
-	
-<blockquote>
- <details>
-	 <summary> <b>Quick Overview </b> </summary>
-
-<br> 
-	 
-|     Item                 |     Description                                                                                                                                                                                                                                           |
-|--------------------------|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-|     **Project Objective**    |                To build reusable **Sequence Text Classification ML Pipeline** <br>To convert Text --> **(Aspect, Sentiment)** pairs                                                                                                              |
-|      **Example I/P**<br>(a madeup example)         |     (**comment_id**, **comment**)<br> ⬇️ ⬇️ ⬇️ <br> (23, "The representative   who initially spoke with was very understanding but the dealer whom I was   transferred to later was rude and unhelpful. We were happy to have got a free   car wash however the service for just an oil change is too long.")     | 
-|      **Example O/P**         |     (**comment_id**, **sentence_start**, **sentence_end**, **sentence**, **Predicted_Aspect**, **Predicted_Sentiment**)<br> ⬇️ ⬇️ ⬇️ <br> (23,0,W, "The representative who initially spoke with was very understanding",`Contact_Center_Agent`,`Positive`)<br><br>(23,W+1,X,"but the dealer whom I was transferred to later was rude and unhelpful",`Dealer`,`Negative`)<br><br>(23,X+1,Y,"We were happy to have got a free car wash",`Car Wash`,`Positive`)<br><br>(23,Y+1,Z,"however the service for just an oil change is too long.",`Service_Timeliness`,`Negative`)<br><br>Legend: W, X, Y, and Z referring to token character indices | 
-|     **Business/Technical<br> Benefits**   |    <ul><li>Our repo and its codes were used to build *30+ different Text Classification Models* <br>using the same ML pipeline/framework where each model had 20-30 classes to predict</li><li>Our repo's framework and models warranted far less human annotated data (than using a typical ML model)</li></ul>|	
-|     **Key Tools & Libraries**    |                ![Python](https://img.shields.io/badge/-Python-green?style=for-the-badge=white) ![PySpark](https://img.shields.io/badge/-PySpark-green?style=for-the-badge=white) ![HuggingFace Transformers](https://img.shields.io/badge/-Transformers-blue?style=for-the-badge=white) ![SpaCy](https://img.shields.io/badge/-SpaCy-green?style=for-the-badge=white) ![PyTorch](https://img.shields.io/badge/-PyTorch-brown?style=for-the-badge=white) ![TFHub](https://img.shields.io/badge/-PySpark-green?style=for-the-badge=white)  ![Docker](https://img.shields.io/badge/-Docker-green?style=for-the-badge=white)                                                                                                               |
-	
- </details>
-
- <details>
-	 <summary> <b>Detailed Pipeline </b> </summary>
-	 
- <br>
-	 
- ![](images/proj1_model_training_image.png)
-	 
-  <details><summary>*Text2Embedding Sub-pipeline</summary>
- 
-  ![sub-pipeline1](images/proj1_text2embedding_image.png)
-
-  </details>
-
-  <details><summary>*Efficient Annotation Sub-pipeline</summary>
- 
-  ![sub-pipeline1](images/proj1_efficient_annotation_image.png)
- 
-  </details>
-  
- </details>
-</blockquote>
-	
-##### Project #2: Personally Identifiable Information (PII) Detection using NER
-	
-<blockquote>
- <details>
-	 <summary> <b>Quick Overview </b> </summary>
-
-<br> 
-	 
-|     Item                 |     Description                                                                                                                                                                                                                                           |
-|--------------------------|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-|     **Project Objective**   |       - To replace PII in text data<br> - To build a Named Entity Recognition (NER) system that can detect PII in text comments |
-|      **Example I/P** <br>(a madeup example)       |   Please drop my 2019 Focus after service to 2109 Hershell Hollow Road, Nashville, Tennesse. You can reach me at +1 854-789-1234 or gary_kirsten1978@gmail.com - Gary Kirsten  | 
-|      **Example O/P**         |  Please drop my `{{MODEL_YEAR}}` `{{NAMEPLATE}}` after service to `{{ADDRESS}}`. You can reach me at `{{PHONE_NUMBER}}` or `{{EMAIL}}` - `{{PERSON_NAME}}`    | 
-|     **Business/Technical<br> Benefits**    |   <ul><li>PII Annonymization can aid in less restricted use of the data</li><li>Spacy's Roberta-base Model circumvented the truncation restriction of the transformers max sequence length problem. Refer [Link](https://spacy.io/api/transformer#span_getters)</li></ul>|	
-|     **Key Tools & Libraries**    |  ![Python](https://img.shields.io/badge/-Python-green?style=for-the-badge=white) ![HuggingFace Transformers](https://img.shields.io/badge/-Transformers-blue?style=for-the-badge=white) ![SpaCy](https://img.shields.io/badge/-SpaCy-green?style=for-the-badge=white) ![Poetry](https://img.shields.io/badge/-Poetry-brown?style=for-the-badge=white) ![Docker](https://img.shields.io/badge/-Docker-green?style=for-the-badge=white) ![Kubernetes](https://img.shields.io/badge/-Kubernetes-blue?style=for-the-badge=white) ![FastAPI](https://img.shields.io/badge/-FastAPI-orange?style=for-the-badge=white)                                                                                                                             |
-	 
- </details>
-
- <details>
-	 <summary> <b>Detailed Pipeline </b> </summary>
- 	 
- ![](images/proj2_pii_ner_training_image.png)	 
- 
- </details>
-</blockquote>
-
-##### Project #3: Unsupervised Clustering Pipeline
-	
-<blockquote>
- <details>
-	 <summary> <b>Quick Overview </b> </summary>
-
-<br> 
-	 
-|     Item                 |     Description                                                                                                                                                                                                                                           |
-|--------------------------|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-|     **Project Objective**   |  <ul><li>To derive actionable insights faster from unlabeled text corpus using unsupervised clustering techniques</li></ul>   |
-|     **Overall Methodology**   |   <li>Is the text corpus ~ corpora like `Wiki`,`Brown Corpus`, `Web Forum discussions` <br> or such generic test used for pre-training Transfer learning (TL) models?<ul><li>Yes: <b>TL-based Embedding & Hard Clustering</b></li><li>No, it is a <b>domain-specific data</b> <br>uncommon to find anything similar in open-source datasets <br>(e.g.: Technician logs, domain-specific survey):<br>Employ the best of Traditional Embedding and Topic Modeling</li></ul></li> |
-|     Methodology1:<br>**DL-based Sentence Embedding AND Hard Clustering**    | <ul><li><b>TL-based Embedding & Hard Clustering</b>:<ul><li><b>Embedding</b>: Any Sentence Embedding technique<ul><li>InferSent</li><li>SentenceBERT</li><li>Universal Sentence Coder(used in my proj)</li><li>Any other</li></ul></li><li><b>Search</b>: Approx. Nearest Neighbours (ANNoy) on top of Embedding</li><li><b>Clustering</b>: KMeans OR HDBSCAN</li></ul></li></ul> |
-|     Methodology2:<br>**Traditional Embedding AND <br> Topic Modeling**    | <ul><li><b>Domain-specific Data</b>:<ul><li><b>Simple-but-Effective (arguable) Traditional Embedding Used</b>:<ul><li>Custom Vectorizer Pipeline<ul><li>Spacy-tokenized</li><li>Lemmatized</li><li>TF-IDF Vectorizor</li></ul></li></li></ul><li><b>Topic Modeling Variants We Used:</b><ul><li>Simple LDA</li><li>Semi-supervised or Guided or Seeded LDA</li></ul></li><li><b>pyLDAvis Visualization</b><ul><li>Inter-topic Distance Map & Topic Occurence Freq</li><li>per-Topic Word Distribution</li></ul></li></ul></li></ul> |
-|     **Key Tools & Libraries**    |  ![Python](https://img.shields.io/badge/-Python-green?style=for-the-badge=white) ![HuggingFace Transformers](https://img.shields.io/badge/-Transformers-blue?style=for-the-badge=white) ![SpaCy](https://img.shields.io/badge/-SpaCy-green?style=for-the-badge=white) ![Docker](https://img.shields.io/badge/-Docker-green?style=for-the-badge=white) ![Kubernetes](https://img.shields.io/badge/-Kubernetes-blue?style=for-the-badge=white) ![Streamlit](https://img.shields.io/badge/-Streamlit-yellow?style=for-the-badge=black)                                                                                                                             |
-</details>
-</blockquote>
