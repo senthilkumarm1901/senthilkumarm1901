@@ -129,8 +129,8 @@
 
 <br>
 	
-   - B.E. Madras Institute of Technology, 8.6 CGPA | 2006 - 2010
-   - State topper in State-level Eng. Entrance Exam | 2006
+   - B.E. Madras Institute of Technology, **8.6** CGPA | 2006 - 2010
+   - **State topper** in State-level Eng. Entrance Exam | 2006
    - Twelfth Grade - 95% | 2006 ; Tenth Grade - 92% | 2004
 
 </details>
