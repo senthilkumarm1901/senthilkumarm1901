@@ -48,7 +48,7 @@
    - **Jupyter Notebook** to learn coding concepts 
    - **draw.io**, **mermaid** and **markdown** for flowcharts and documentation purposes
 
-## :bow_and_arrow: While not coding, I typically use tools such as ...
+## 📅 🎙️: While not coding, I typically use tools such as ...
 
    - **OneNote** for taking lots of notes from emails, meetings and websites and  
    - **Slack** for communicating, weekly updates and jotting down reminder messages to self
