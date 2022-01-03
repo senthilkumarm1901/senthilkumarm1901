@@ -8,7 +8,7 @@
      - where the # of Aspect labels are typically more than 25
      - which has easy to use human-in-the-loop annotation scripts that can 
          - do efficient clustering of yet-to-be labeled data and
-         - augment low volume classes
+         - augment low volume classes after initial round of annotations
      - which yeilds 90%+ F1 score with minimal annotated data (possible with Transfer Learning)
   
  
@@ -19,7 +19,7 @@
 - **Example O/P**: <br>
   Part 1: <br>
      > "The representative who initially spoke with was very understanding" <br>
-     > `Contact_Center_Agent` | `Positive`
+     > `Contact_Center_Agent` | `Positive` <br>
   Part 2: <br>
      > "but the dealer whom I was transferred to later was rude and unhelpful" <br>
      > `Dealer` | `Negative`
