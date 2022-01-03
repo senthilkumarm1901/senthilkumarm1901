@@ -2,15 +2,16 @@
 
 ### Project #1: Aspect-based Sentiment Analysis
 
- **Project Objective** : <br>  
- - To build a reusable **Sequence Text Classification ML Pipeline**
+ **Project Summary** : <br>  
+ - Built a reusable **Sequence Text Classification ML Pipeline**
      - which used BERT-fine-tuning base TL model (circa: 2019-20)
-     - where free-text is converted into **(Aspect, Sentiment)** pairs
+     - where free-text was converted into **(Aspect, Sentiment)** pairs
      - where the # of Aspect labels are typically more than 25
-     - which has easy to use human-in-the-loop annotation scripts that can 
+     - which had easy to use human-in-the-loop annotation scripts that can 
          - do efficient clustering of yet-to-be labeled data and
          - augment low volume classes after initial round of annotations
-     - which yeilds 90%+ F1 score with minimal annotated data (possible with Transfer Learning)
+     - which yeilded 90%+ F1 score with minimal annotated data 
+     - which had scripts to monitor performance of model 
   
  
  **I/P and O/P**: <br>
