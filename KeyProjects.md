@@ -4,6 +4,7 @@
 
  **Project Objective** : <br>  
  - To build a reusable **Sequence Text Classification ML Pipeline**
+     - which used BERT-fine-tuning base TL model (circa: 2019-20)
      - where free-text is converted into **(Aspect, Sentiment)** pairs
      - where the # of Aspect labels are typically more than 25
      - which has easy to use human-in-the-loop annotation scripts that can 
@@ -25,3 +26,8 @@
      > `Dealer` | `Negative`
      
   
+**Business/Technical<br> Benefits**: <br>
+
+- The codebase was used to build *30+ different Text Classification Models*
+    - using the same ML pipeline/framework where each model had 20-30 classes to predict 
+- Our repo's framework and models warranted far less human annotated data (than using a typical ML model)
