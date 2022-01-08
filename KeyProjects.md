@@ -2,7 +2,7 @@
 
 ### Project #1: Aspect-based Sentiment Analysis
 
- **Project Summary** : <br>  
+ <details><summary><b>Project Summary</b></summary>
  - Built a reusable **Sequence Text Classification ML Pipeline**
      - which used BERT-fine-tuning base TL model (circa: 2019-20)
      - where free-text was converted into **(Aspect, Sentiment)** pairs
@@ -12,9 +12,10 @@
          - augment low volume classes after initial round of annotations
      - which yeilded 90%+ F1 score with minimal annotated data 
      - which had scripts to monitor performance of model 
-  
+
+</details>
  
- **I/P and O/P**: <br>
+<details><summary><b>I/P and O/P</b></summary>
  
 - **Example I/P**:
      > "The representative  who initially spoke with was very understanding but the dealer whom I was transferred to later was rude and unhelpful"
@@ -25,10 +26,13 @@
   Part 2: <br>
      > "but the dealer whom I was transferred to later was rude and unhelpful" <br>
      > `Dealer` | `Negative`
-     
+
+</details>
   
-**Business/Technical<br> Benefits**: <br>
+<details><summary><b>Business/Technical Benefits</b></summary>
 
 - The codebase was used to build *30+ different Text Classification Models*
     - using the same ML pipeline/framework where each model had 20-30 classes to predict 
 - Our repo's framework and models warranted far less human annotated data (than using a typical ML model)
+
+ </details>
