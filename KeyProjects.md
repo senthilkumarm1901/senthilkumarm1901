@@ -95,3 +95,73 @@
  </details> 
  
  </blockquote>
+
+
+### Project #3: Unsupervised Text Data Clustering Pipeline
+
+<blockquote>
+ <details><summary><b>Project Summary</b></summary>
+ 
+  <br>
+  
+- To build reusable Text Clustering pipelines  
+    - with simpler Python APIs runnable inside docker images that can be used by non-NLP analysts 
+    - to derive actionable insights from unlabeled text corpus using unsupervised clustering techniques
+- The codebase was built on top of the main open source libraries 
+    - PyTorch (Transformers, Sentence Transformers), Sklearn
+  
+</details>
+ 
+<details><summary><b>Methodology Workflow</b></summary>
+
+- Can Transfer Learning (TL) based pre-trained Sentence Models work for your data?
+    - (1) If `Yes`
+        - Employ TL-based Embedding & Hard Clustering
+        - E.g.: Customer comments, corpora like Wiki,Brown Corpus, Web Forum discussions   
+    - (2) If `No` (it is a domain-specific data)
+        - Employ the best of Traditional Embedding and Topic Modeling
+        - E.g.: Technician logs, domain-specific survey
+ 
+**Methodology 1**: <br>
+- *TL-based Embedding & Hard Clustering*
+    - Embedding options: Employ any good Sentence Embedding technique
+        - SentenceBERT (`sentence transformers` library)
+        - Universal Sentence Coder (via TFHub)
+- Indexing: Approx. Nearest Neighbours (ANNoy) on top of Embedding
+- Clustering options: KMeans OR HDBSCAN
+ 
+**Methodology 2**: <br>
+- *Traditional Embedding and Topic Modeling*
+    - Simple-but-Effective (arguable) Traditional Embedding Used:
+        - Custom Vectorizer Pipeline
+            - Spacy-tokenized
+            - Lemmatized
+            - TF-IDF Vectorizor
+    - Topic Modeling Variant Options:
+        - Simple LDA
+        - Semi-supervised or Guided or Seeded LDA
+    - pyLDAvis Visualization
+        - Inter-topic Distance Map & Topic Occurence Freq
+        - per-Topic Word Distribution
+ 
+</details>
+ 
+
+<details><summary><b>Technology Stack</b></summary>
+ 
+ <br>
+ 
+![Sentence Transformers](https://img.shields.io/badge/-SentenceTransformers-green?style=for-the-badge=white) ![HuggingFace Transformers](https://img.shields.io/badge/-Transformers-blue?style=for-the-badge=white) ![SpaCy](https://img.shields.io/badge/-SpaCy-green?style=for-the-badge=white) ![Sklearn](https://img.shields.io/badge/-Sklearn-green?style=for-the-badge=white) ![Docker](https://img.shields.io/badge/-Docker-green?style=for-the-badge=white) ![Kubernetes](https://img.shields.io/badge/-Kubernetes-blue?style=for-the-badge=white) ![Streamlit](https://img.shields.io/badge/-Streamlit-yellow?style=for-the-badge=black)  
+ 
+ </details> 
+ 
+ </blockquote>
+ 
+ 
+### Project #4: A Unsupervised + Supervised NLP Semantic Search Pipeline (inspired by the workings of a NLP QA system but for Semantic Search) 
+ 
+### Project #5: Social Media Data Analysis
+  
+### Project #6: Multi-GPU Neural Machine Translation (NMT) Inference Pipeline
+
+### Project #7: Comparison of Speech2Text APIs and Pre-trained Models Comparison
