@@ -165,4 +165,5 @@
   
 ### Project #6: Multi-GPU Neural Machine Translation (NMT) Inference Pipeline
 
-### Project #7: Comparison of Speech2Text APIs and Pre-trained Models Comparison
+### Project #7: Analysis of Speech2Text Models
+(Comparison of Results of Paid Speech2Text APIs and Open-source DeepSpeech Pre-trained Models)
