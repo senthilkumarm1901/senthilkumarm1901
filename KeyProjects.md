@@ -2,6 +2,7 @@
 
 ### Project #1: Aspect-based Sentiment Analysis
 
+<blockquote>
  <details><summary><b>Project Summary</b></summary>
  
  - Built a reusable **Sequence Text Classification ML Pipeline**
@@ -39,3 +40,11 @@
 - This was possible because both **Feature Extraction** :snowflake: (for clustering) and **Fine-tuning** :fire: (for BERT Fine-tuning was used
 
  </details>
+
+<details><summary><b>Key Tools</b></summary>
+ 
+ ![Python](https://img.shields.io/badge/-Python-green?style=for-the-badge=white) ![PySpark](https://img.shields.io/badge/-PySpark-green?style=for-the-badge=white) ![HuggingFace Transformers](https://img.shields.io/badge/-Transformers-blue?style=for-the-badge=white) ![SpaCy](https://img.shields.io/badge/-SpaCy-green?style=for-the-badge=white) ![PyTorch](https://img.shields.io/badge/-PyTorch-brown?style=for-the-badge=white) ![TFHub](https://img.shields.io/badge/-TFHUB-green?style=for-the-badge=white)  ![Docker](https://img.shields.io/badge/-Docker-green?style=for-the-badge=white) 
+ 
+ </details> 
+ 
+ </blockquote>
