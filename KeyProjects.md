@@ -1,4 +1,4 @@
-## The following are my key work projects 
+## Some of my NLP Projects
 
 ### Project #1: Aspect-based Sentiment Analysis
 
