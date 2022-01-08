@@ -3,8 +3,9 @@
 ### Project #1: Aspect-based Sentiment Analysis
 
  <details><summary><b>Project Summary</b></summary>
+ 
  - Built a reusable **Sequence Text Classification ML Pipeline**
-     - which used BERT-fine-tuning base TL model (circa: 2019-20)
+     - which used BERT-fine-tuning 
      - where free-text was converted into **(Aspect, Sentiment)** pairs
      - where the # of Aspect labels are typically more than 25
      - which had easy to use human-in-the-loop annotation scripts that can 
@@ -23,6 +24,7 @@
   Part 1: <br>
      > "The representative who initially spoke with was very understanding" <br>
      > `Contact_Center_Agent` | `Positive` <br>
+ 
   Part 2: <br>
      > "but the dealer whom I was transferred to later was rude and unhelpful" <br>
      > `Dealer` | `Negative`
@@ -34,5 +36,6 @@
 - The codebase was used to build *30+ different Text Classification Models*
     - using the same ML pipeline/framework where each model had 20-30 classes to predict 
 - Our repo's framework and models warranted far less human annotated data (than using a typical ML model)
+- This was possible because both **Feature Extraction** :snowflake: (for clustering) and **Fine-tuning** :fire: (for BERT Fine-tuning was used
 
  </details>
