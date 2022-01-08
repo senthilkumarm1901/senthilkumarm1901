@@ -5,6 +5,8 @@
 <blockquote>
  <details><summary><b>Project Summary</b></summary>
  
+  <br>
+  
  - Built a reusable **Sequence Text Classification ML Pipeline**
      - which used BERT-fine-tuning 
      - where free-text was converted into **(Aspect, Sentiment)** pairs
@@ -15,6 +17,8 @@
      - which yeilded 90%+ F1 score with minimal annotated data 
      - which had scripts to monitor performance of model 
 
+- Built a comprehensive Docker Image that hosted the DL models as well as Spark
+  
 </details>
  
 <details><summary><b>I/P and O/P</b></summary>
@@ -41,9 +45,52 @@
 
  </details>
 
-<details><summary><b>Key Tools</b></summary>
+<details><summary><b>Technology Stack</b></summary>
  
- ![Python](https://img.shields.io/badge/-Python-green?style=for-the-badge=white) ![PySpark](https://img.shields.io/badge/-PySpark-green?style=for-the-badge=white) ![HuggingFace Transformers](https://img.shields.io/badge/-Transformers-blue?style=for-the-badge=white) ![SpaCy](https://img.shields.io/badge/-SpaCy-green?style=for-the-badge=white) ![PyTorch](https://img.shields.io/badge/-PyTorch-brown?style=for-the-badge=white) ![TFHub](https://img.shields.io/badge/-TFHUB-green?style=for-the-badge=white)  ![Docker](https://img.shields.io/badge/-Docker-green?style=for-the-badge=white) 
+ <br>
+ 
+ ![Python](https://img.shields.io/badge/-Python-green?style=for-the-badge=white) ![PySpark](https://img.shields.io/badge/-PySpark-green?style=for-the-badge=white) ![HuggingFace Transformers](https://img.shields.io/badge/-Transformers-blue?style=for-the-badge=white) ![SpaCy](https://img.shields.io/badge/-SpaCy-green?style=for-the-badge=white) ![PyTorch](https://img.shields.io/badge/-PyTorch-brown?style=for-the-badge=white) ![TFHub](https://img.shields.io/badge/-TFHub-green?style=for-the-badge=white)  ![Docker](https://img.shields.io/badge/-Docker-green?style=for-the-badge=white) 
+ 
+ </details> 
+ 
+ </blockquote>
+
+### Project #2: Personally Identifiable Information (PII) Detection using NER
+
+<blockquote>
+ <details><summary><b>Project Summary</b></summary>
+ 
+  <br>
+  
+- To replace PII in text data
+    - by building a **Named Entity Recognition (NER)** system that can detect PII in text comments
+- Built a Rules-based NER to bootstrap Training data
+- Accuracy Robustness: Ensembled the results of 3 different NER models to get final predictions 
+  
+</details>
+ 
+<details><summary><b>I/P and O/P</b></summary>
+ 
+- **Example I/P**:
+     > "Please drop my 2019 Focus after service to 2109 Hershell Hollow Road, Nashville, Tennesse. You can reach me at +1 854-789-1234 or gary_kirsten1978@gmail.com - Gary Kirsten" ( a made-up example)
+- **Example O/P**: <br>
+ 
+     > Please drop my `{{MODEL_YEAR}}` `{{NAMEPLATE}}` after service to `{{ADDRESS}}`. You can reach me at `{{PHONE_NUMBER}}` or `{{EMAIL}}` - `{{PERSON_NAME}}`
+ 
+</details>
+  
+<details><summary><b>Business/Technical Benefits</b></summary>
+
+- PII Annonymization can aid in less restricted use of the data
+- Spacy's Roberta-base Model circumvented the truncation restriction of the transformers max sequence length problem. Refer [Link](https://spacy.io/api/transformer#span_getters)
+
+ </details>
+
+<details><summary><b>Technology Stack</b></summary>
+ 
+ <br>
+ 
+![Python](https://img.shields.io/badge/-Python-green?style=for-the-badge=white) ![HuggingFace Transformers](https://img.shields.io/badge/-Transformers-blue?style=for-the-badge=white) ![SpaCy](https://img.shields.io/badge/-SpaCy-green?style=for-the-badge=white) ![Poetry](https://img.shields.io/badge/-Poetry-brown?style=for-the-badge=white) ![Docker](https://img.shields.io/badge/-Docker-green?style=for-the-badge=white) ![Kubernetes](https://img.shields.io/badge/-Kubernetes-blue?style=for-the-badge=white) ![FastAPI](https://img.shields.io/badge/-FastAPI-orange?style=for-the-badge=white)
  
  </details> 
  
