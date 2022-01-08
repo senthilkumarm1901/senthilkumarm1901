@@ -158,7 +158,8 @@
  </blockquote>
  
  
-### Project #4: A Unsupervised + Supervised NLP Semantic Search Pipeline (inspired by the workings of a NLP QA system but for Semantic Search) 
+### Project #4: A Unsupervised + Supervised NLP Semantic Search Pipeline
+(inspired by the workings of a NLP QA system but for Semantic Search) 
  
 ### Project #5: Social Media Data Analysis
   
