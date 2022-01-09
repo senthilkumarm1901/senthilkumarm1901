@@ -128,9 +128,8 @@
   <details><summary>*Model-based NER Sub-pipeline</summary>
  
   ![sub-pipeline1](images/proj2_pii_nersub_pipeline2.png)
- 
+	  
   </details>
- 
  </blockquote>
 
 
