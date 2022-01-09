@@ -150,16 +150,22 @@
 
 ## :office_worker: Short Summaries of my Key Projects ... 
 
-##### Project #1: Aspect-based Sentiment Analysis
+<details><summary>Project #1: Aspect-based Sentiment Analysis</summary>
 
+<br>
+	
 - Built a reusable Sequence Classification ML Pipeline which converts customer comments into `Aspects` and `Sentiment`
 - USPs of the Pipeline: 
     - Spark Preprocessing, TL+Clustering aided Annotation and Dockerized Transformer Fine-tuned Model Training and Inference 
     - Less annotation for Training (compared to traditional ML) by intelligent use of DL models
  - Look [here](https://github.com/senthilkumarm1901/senthilkumarm1901/blob/main/KeyProjects.md#project-1-aspect-based-sentiment-analysis) for more details
-	
-##### Project #2: Personally Identifiable Information (PII) Detection using NER
 
+</details>
+	
+<details><summary>Project #2: Personally Identifiable Information (PII) Detection using NER</summary>
+
+<br>
+	
 - Annonymized PII in text data that resulted in less restricted use of the data 
     - by building a Named Entity Recognition (NER) system that can detect PII 
 - USPs of the Pipeline: 
@@ -167,8 +173,12 @@
     - Spacy's Roberta Base Transformer model allowed for no truncation of sentence max length
     - Inference REST API (via an asynchronous FastAPI deployment using K8s) that can be plugged into multiple applications
  - Look [here](https://github.com/senthilkumarm1901/senthilkumarm1901/blob/main/KeyProjects.md#project-2-personally-identifiable-information-pii-detection-using-ner) for more details
+</details>
 
-##### Project #3: Unsupervised Clustering Pipeline
+<details><summary>Project #3: Unsupervised Clustering Pipeline</summary>
+
+<br>
+	
 	
 - Built reusable Text Clustering pipelines 
     - for deriving actionable insights from unlabeled text corpus
@@ -179,7 +189,7 @@
         - PyTorch (Transformers, Sentence Transformers) Sklearn
  - Look [here](https://github.com/senthilkumarm1901/senthilkumarm1901/blob/main/KeyProjects.md#project-3-unsupervised-text-data-clustering-pipeline) for more details
 
-
+</details>
 
 ## 👨‍💻 ssh `SenthilKumar@WannaKnowMore` 
 
