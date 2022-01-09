@@ -148,91 +148,36 @@
 	
 </blockquote>
 
-## :office_worker: A sample list of my key recent projects ... 
+## :office_worker: Short Summaries of my Key Projects ... 
 
 ##### Project #1: Aspect-based Sentiment Analysis
-	
-<blockquote>
- <details>
-	 <summary> <b>Quick Overview </b> </summary>
 
-<br> 
-	 
-|     Item                 |     Description                                                                                                                                                                                                                                           |
-|--------------------------|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-|     **Project Objective**    |                To build reusable **Sequence Text Classification ML Pipeline** <br>To convert Text --> **(Aspect, Sentiment)** pairs                                                                                                              |
-|      **Example I/P**<br>(a madeup example)         |     (**comment_id**, **comment**)<br> ⬇️ ⬇️ ⬇️ <br> (23, "The representative   who initially spoke with was very understanding but the dealer whom I was   transferred to later was rude and unhelpful. We were happy to have got a free   car wash however the service for just an oil change is too long.")     | 
-|      **Example O/P**         |     (**comment_id**, **sentence_start**, **sentence_end**, **sentence**, **Predicted_Aspect**, **Predicted_Sentiment**)<br> ⬇️ ⬇️ ⬇️ <br> (23,0,W, "The representative who initially spoke with was very understanding",`Contact_Center_Agent`,`Positive`)<br><br>(23,W+1,X,"but the dealer whom I was transferred to later was rude and unhelpful",`Dealer`,`Negative`)<br><br>(23,X+1,Y,"We were happy to have got a free car wash",`Car Wash`,`Positive`)<br><br>(23,Y+1,Z,"however the service for just an oil change is too long.",`Service_Timeliness`,`Negative`)<br><br>Legend: W, X, Y, and Z referring to token character indices | 
-|     **Business/Technical<br> Benefits**   |    <ul><li>Our repo and its codes were used to build *30+ different Text Classification Models* <br>using the same ML pipeline/framework where each model had 20-30 classes to predict</li><li>Our repo's framework and models warranted far less human annotated data (than using a typical ML model)</li></ul>|	
-|     **Key Tools & Libraries**    |                ![Python](https://img.shields.io/badge/-Python-green?style=for-the-badge=white) ![PySpark](https://img.shields.io/badge/-PySpark-green?style=for-the-badge=white) ![HuggingFace Transformers](https://img.shields.io/badge/-Transformers-blue?style=for-the-badge=white) ![SpaCy](https://img.shields.io/badge/-SpaCy-green?style=for-the-badge=white) ![PyTorch](https://img.shields.io/badge/-PyTorch-brown?style=for-the-badge=white) ![TFHub](https://img.shields.io/badge/-PySpark-green?style=for-the-badge=white)  ![Docker](https://img.shields.io/badge/-Docker-green?style=for-the-badge=white)                                                                                                               |
-	
- </details>
-
- <details>
-	 <summary> <b>Detailed Pipeline </b> </summary>
-	 
- <br>
-	 
- ![](images/proj1_model_training_image.png)
-	 
-  <details><summary>*Text2Embedding Sub-pipeline</summary>
- 
-  ![sub-pipeline1](images/proj1_text2embedding_image.png)
-
-  </details>
-
-  <details><summary>*Efficient Annotation Sub-pipeline</summary>
- 
-  ![sub-pipeline1](images/proj1_efficient_annotation_image.png)
- 
-  </details>
-  
- </details>
-</blockquote>
+- Built a reusable Sequence Classification ML Pipeline which converts customer comments into `Aspects` and `Sentiment`
+- USPs of the Pipeline: 
+    - Spark Preprocessing, TL+Clustering aided Annotation and Dockerized Transformer Fine-tuned Model Training and Inference 
+    - Less annotation for Training (compared to traditional ML) by intelligent use of DL models
+ - Look [here](https://github.com/senthilkumarm1901/senthilkumarm1901/blob/main/KeyProjects.md#project-1-aspect-based-sentiment-analysis) for more details
 	
 ##### Project #2: Personally Identifiable Information (PII) Detection using NER
-	
-<blockquote>
- <details>
-	 <summary> <b>Quick Overview </b> </summary>
 
-<br> 
-	 
-|     Item                 |     Description                                                                                                                                                                                                                                           |
-|--------------------------|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-|     **Project Objective**   |       - To replace PII in text data<br> - To build a Named Entity Recognition (NER) system that can detect PII in text comments |
-|      **Example I/P** <br>(a madeup example)       |   Please drop my 2019 Focus after service to 2109 Hershell Hollow Road, Nashville, Tennesse. You can reach me at +1 854-789-1234 or gary_kirsten1978@gmail.com - Gary Kirsten  | 
-|      **Example O/P**         |  Please drop my `{{MODEL_YEAR}}` `{{NAMEPLATE}}` after service to `{{ADDRESS}}`. You can reach me at `{{PHONE_NUMBER}}` or `{{EMAIL}}` - `{{PERSON_NAME}}`    | 
-|     **Business/Technical<br> Benefits**    |   <ul><li>PII Annonymization can aid in less restricted use of the data</li><li>Spacy's Roberta-base Model circumvented the truncation restriction of the transformers max sequence length problem. Refer [Link](https://spacy.io/api/transformer#span_getters)</li></ul>|	
-|     **Key Tools & Libraries**    |  ![Python](https://img.shields.io/badge/-Python-green?style=for-the-badge=white) ![HuggingFace Transformers](https://img.shields.io/badge/-Transformers-blue?style=for-the-badge=white) ![SpaCy](https://img.shields.io/badge/-SpaCy-green?style=for-the-badge=white) ![Poetry](https://img.shields.io/badge/-Poetry-brown?style=for-the-badge=white) ![Docker](https://img.shields.io/badge/-Docker-green?style=for-the-badge=white) ![Kubernetes](https://img.shields.io/badge/-Kubernetes-blue?style=for-the-badge=white) ![FastAPI](https://img.shields.io/badge/-FastAPI-orange?style=for-the-badge=white)                                                                                                                             |
-	 
- </details>
-
- <details>
-	 <summary> <b>Detailed Pipeline </b> </summary>
- 	 
- ![](images/proj2_pii_ner_training_image.png)	 
- 
- </details>
-</blockquote>
+- Annonymized PII in text data that resulted in less restricted use of the data 
+    - by building a Named Entity Recognition (NER) system that can detect PII 
+- USPs of the Pipeline: 
+    - Bootstrapped the training data using Spacy rules (thus easing the annotation process)
+    - Spacy's Roberta Base Transformer model allowed for no truncation of sentence max length
+    - Inference REST API (via an asynchronous FastAPI deployment using K8s) that can be plugged into multiple applications
+ - Look [here](https://github.com/senthilkumarm1901/senthilkumarm1901/blob/main/KeyProjects.md#project-2-personally-identifiable-information-pii-detection-using-ner) for more details
 
 ##### Project #3: Unsupervised Clustering Pipeline
 	
-<blockquote>
- <details>
-	 <summary> <b>Quick Overview </b> </summary>
-
-<br> 
-	 
-|     Item                 |     Description                                                                                                                                                                                                                                           |
-|--------------------------|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-|     **Project Objective**   |  <ul><li>To derive actionable insights faster from unlabeled text corpus using unsupervised clustering techniques</li></ul>   |
-|     **Overall Methodology**   |   <li>Is the text corpus ~ corpora like `Wiki`,`Brown Corpus`, `Web Forum discussions` <br> or such generic test used for pre-training Transfer learning (TL) models?<ul><li>Yes: <b>TL-based Embedding & Hard Clustering</b></li><li>No, it is a <b>domain-specific data</b> <br>uncommon to find anything similar in open-source datasets <br>(e.g.: Technician logs, domain-specific survey):<br>Employ the best of Traditional Embedding and Topic Modeling</li></ul></li> |
-|     Methodology1:<br>**DL-based Sentence Embedding AND Hard Clustering**    | <ul><li><b>TL-based Embedding & Hard Clustering</b>:<ul><li><b>Embedding</b>: Any Sentence Embedding technique<ul><li>InferSent</li><li>SentenceBERT</li><li>Universal Sentence Coder(used in my proj)</li><li>Any other</li></ul></li><li><b>Search</b>: Approx. Nearest Neighbours (ANNoy) on top of Embedding</li><li><b>Clustering</b>: KMeans OR HDBSCAN</li></ul></li></ul> |
-|     Methodology2:<br>**Traditional Embedding AND <br> Topic Modeling**    | <ul><li><b>Domain-specific Data</b>:<ul><li><b>Simple-but-Effective (arguable) Traditional Embedding Used</b>:<ul><li>Custom Vectorizer Pipeline<ul><li>Spacy-tokenized</li><li>Lemmatized</li><li>TF-IDF Vectorizor</li></ul></li></li></ul><li><b>Topic Modeling Variants We Used:</b><ul><li>Simple LDA</li><li>Semi-supervised or Guided or Seeded LDA</li></ul></li><li><b>pyLDAvis Visualization</b><ul><li>Inter-topic Distance Map & Topic Occurence Freq</li><li>per-Topic Word Distribution</li></ul></li></ul></li></ul> |
-|     **Key Tools & Libraries**    |  ![Python](https://img.shields.io/badge/-Python-green?style=for-the-badge=white) ![HuggingFace Transformers](https://img.shields.io/badge/-Transformers-blue?style=for-the-badge=white) ![SpaCy](https://img.shields.io/badge/-SpaCy-green?style=for-the-badge=white) ![Docker](https://img.shields.io/badge/-Docker-green?style=for-the-badge=white) ![Kubernetes](https://img.shields.io/badge/-Kubernetes-blue?style=for-the-badge=white) ![Streamlit](https://img.shields.io/badge/-Streamlit-yellow?style=for-the-badge=black)                                                                                                                             |
-</details>
-</blockquote>
+- Built reusable Text Clustering pipelines 
+    - for deriving actionable insights from unlabeled text corpus
+- USPs of the Pipeline: 
+    - The clustering pipeline provided options for both Traditional Topic Modeling and DL-Embedding based Hard Clustering
+    - Incorporated the models into an easy-to-use `Streamlit` UI deployed via K8s 
+    - The codebase was built on top of the main open source libraries
+        - PyTorch (Transformers, Sentence Transformers) Sklearn
+ - Look [here](https://github.com/senthilkumarm1901/senthilkumarm1901/blob/main/KeyProjects.md#project-3-unsupervised-text-data-clustering-pipeline) for more details
 
 
 
