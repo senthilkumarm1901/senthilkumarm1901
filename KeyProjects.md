@@ -53,6 +53,25 @@
  
  </details> 
  
+<details>
+	 <summary> <b>Detailed Pipeline </b> </summary>
+	 
+ <br>
+	 
+ ![](images/proj1_full_pipeline.png)
+	 
+  <details><summary>*Text2Embedding Sub-pipeline</summary>
+ 
+  ![sub-pipeline1](images/proj1_spark_plus_embedding.png)
+
+  </details>
+
+  <details><summary>*Efficient Annotation Sub-pipeline</summary>
+ 
+  ![sub-pipeline1](images/proj1_annotation_pipeline.png)
+ 
+  </details>
+ 
  </blockquote>
 
 ### Project #2: Personally Identifiable Information (PII) Detection using NER
@@ -65,7 +84,6 @@
 - To replace PII in text data
     - by building a **Named Entity Recognition (NER)** system that can detect PII in text comments
 - Built a Rules-based NER to bootstrap Training data
-- Accuracy Robustness: Ensembled the results of 3 different NER models to get final predictions 
   
 </details>
  
@@ -93,6 +111,25 @@
 ![Python](https://img.shields.io/badge/-Python-green?style=for-the-badge=white) ![HuggingFace Transformers](https://img.shields.io/badge/-Transformers-blue?style=for-the-badge=white) ![SpaCy](https://img.shields.io/badge/-SpaCy-green?style=for-the-badge=white) ![Poetry](https://img.shields.io/badge/-Poetry-brown?style=for-the-badge=white) ![Docker](https://img.shields.io/badge/-Docker-green?style=for-the-badge=white) ![Kubernetes](https://img.shields.io/badge/-Kubernetes-blue?style=for-the-badge=white) ![FastAPI](https://img.shields.io/badge/-FastAPI-orange?style=for-the-badge=white)
  
  </details> 
+ 
+ <details>
+	 <summary> <b>Detailed Pipeline </b> </summary>
+	 
+ <br>
+	 
+ ![](images/proj2_pii_ner_main_pipeline.png)
+	 
+  <details><summary>*Rules-based NER Sub-pipeline</summary>
+ 
+  ![sub-pipeline1](images/proj2_pii_nersub_pipeline1.png)
+
+  </details>
+
+  <details><summary>*Model-based NER Sub-pipeline</summary>
+ 
+  ![sub-pipeline1](images/proj2_pii_nersub_pipeline2.png)
+ 
+  </details>
  
  </blockquote>
 
