@@ -186,7 +186,7 @@
     - The clustering pipeline provided options for both Traditional Topic Modeling and DL-Embedding based Hard Clustering
     - Incorporated the models into an easy-to-use `Streamlit` UI deployed via K8s 
     - The codebase was built on top of the main open source libraries
-        - PyTorch (Transformers, Sentence Transformers) Sklearn
+        - PyTorch (Transformers, Sentence Transformers) and Sklearn
  - Look [here](https://github.com/senthilkumarm1901/senthilkumarm1901/blob/main/KeyProjects.md#project-3-unsupervised-text-data-clustering-pipeline) for more details
 
 </details>
