@@ -20,12 +20,12 @@
 
 </p>
 
-## :man_in_tuxedo: I am ...
+## :man_in_tuxedo: I am a ...
 
-   - a **Specialist in NLP** who has ...
+   -  **Specialist in NLP** who has ...
        - extensively applied NLP techniques for text data 
        - decent mathematical knowledge on the fundamentals of Statistics/Probability, ML/DL and NLP
-   - a Generalist who builds **Python-based Data Science applications/solutions** which ...
+   - Generalist who builds **Python-based Data Science applications/solutions** which ...
        - use Sklearn in case of ML models and PyTorch ecosystem for DL
        - use Pandas, Altair, Jupyter and Streamlit for Data Explorations and Visualization
 
@@ -40,6 +40,14 @@
        - which is modularized and packaged (as `from some_internal_package import what_you_need`)
        - committed to **GitHub** for co-development and issue-resolution
        - with docstrings and pytests, subjected to **Pull Requests** when multiple developers are involved
+
+   - using ...
+
+
+|         <img width=50/>          |  `Extensively Used` <img width=200/>                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                             |  `Working Knowledge`  <img width=200/>                                                                                                                                                                                                                                                                                                                                                                                                                               |
+|------------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| **Tools**             | ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge=white) ![Git](https://img.shields.io/badge/GitHub-100000?style=for-the-badge=white) ![Shell](https://img.shields.io/badge/Linux/WSL-121011?style=for-the-badge=white) ![Markdown](https://img.shields.io/badge/Markdown-000000?style=for-the-badge=white) <br>![Jupyter](https://img.shields.io/badge/Jupyter-F37626.svg?&style=for-the-badge=white) ![PyCharm](https://img.shields.io/badge/PyCharm-143?style=for-the-badge=green) ![Docker](https://img.shields.io/badge/-Docker-green?style=for-the-badge=white) | ![Kubernetes](https://img.shields.io/badge/-Kubernetes-blue?style=for-the-badge=white) ![Poetry](https://img.shields.io/badge/-Poetry-brown?style=for-the-badge=white) <br>![Venv](https://img.shields.io/badge/-Venv-black?style=for-the-badge=white) ![Conda](https://img.shields.io/badge/-Conda-orange?style=for-the-badge=white)                                                                                                                  |
+| **Python Libraries** | ![SpaCy](https://img.shields.io/badge/-SpaCy-green?style=for-the-badge=white) ![HuggingFace Transformers](https://img.shields.io/badge/-Transformers-blue?style=for-the-badge=white) ![PyTorch](https://img.shields.io/badge/-PyTorch-brown?style=for-the-badge=white) <br> ![Pandas](https://img.shields.io/badge/-Pandas-black?style=for-the-badge=white) ![regex](https://img.shields.io/badge/-RegEx-orange?style=for-the-badge=white) ![sklearn](https://img.shields.io/badge/-Sklearn-orange?style=for-the-badge=white)                                                            | ![PySpark](https://img.shields.io/badge/-PySpark-green?style=for-the-badge=white) ![Altair/Seaborn](https://img.shields.io/badge/-Altair-blue?style=for-the-badge=white) ![GenSim](https://img.shields.io/badge/-GenSim-brown?style=for-the-badge=white) <br> ![FastAPI](https://img.shields.io/badge/-FastAPI-orange?style=for-the-badge=white) ![Streamlit](https://img.shields.io/badge/-Streamlit-yellow?style=for-the-badge=black)<br> |
 
 ## :computer: While coding, I typically use tools such as ...
 
@@ -109,16 +117,11 @@
 <details> <summary> <b>Key Technical Skills</b> </summary>
 
 <br>
-	
+
 - Python | NLP via Rules, Linguistics and ML Techniques | Deep Learning for NLP | ML Projects Execution
 
 
-
-	|         <img width=50/>          |  `Extensively Used` <img width=200/>                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                             |  `Working Knowledge`  <img width=200/>                                                                                                                                                                                                                                                                                                                                                                                                                               |
-	|------------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-	| Tools             | ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge=white) ![Git](https://img.shields.io/badge/GitHub-100000?style=for-the-badge=white) ![Shell](https://img.shields.io/badge/Linux/WSL-121011?style=for-the-badge=white) ![Markdown](https://img.shields.io/badge/Markdown-000000?style=for-the-badge=white) ![Jupyter](https://img.shields.io/badge/Jupyter-F37626.svg?&style=for-the-badge=white) ![PyCharm](https://img.shields.io/badge/pycharm-143?style=for-the-badge=green) ![Docker](https://img.shields.io/badge/-Docker-green?style=for-the-badge=white) | ![Kubernetes](https://img.shields.io/badge/-Kubernetes-blue?style=for-the-badge=white) ![Poetry](https://img.shields.io/badge/-Poetry-brown?style=for-the-badge=white) ![Venv](https://img.shields.io/badge/-Venv-black?style=for-the-badge=white) ![Conda](https://img.shields.io/badge/-Conda-orange?style=for-the-badge=white)                                                                                                                  |
-	| Python Libraries | ![SpaCy](https://img.shields.io/badge/-SpaCy-green?style=for-the-badge=white) ![HuggingFace Transformers](https://img.shields.io/badge/-Transformers-blue?style=for-the-badge=white) ![PyTorch](https://img.shields.io/badge/-PyTorch-brown?style=for-the-badge=white) ![Pandas](https://img.shields.io/badge/-Pandas-black?style=for-the-badge=white) ![regex](https://img.shields.io/badge/-RegEx-orange?style=for-the-badge=white) ![sklearn](https://img.shields.io/badge/-Sklearn-orange?style=for-the-badge=white)                                                            | ![PySpark](https://img.shields.io/badge/-PySpark-green?style=for-the-badge=white) ![Altair/Seaborn](https://img.shields.io/badge/-Seaborn/Altair-blue?style=for-the-badge=white)<br> ![GenSim](https://img.shields.io/badge/-GenSim-brown?style=for-the-badge=white) ![FastAPI](https://img.shields.io/badge/-FastAPI-orange?style=for-the-badge=white) ![Streamlit](https://img.shields.io/badge/-Streamlit-yellow?style=for-the-badge=black)<br> |
-
+	
 </details>
 	
 </blockquote>
