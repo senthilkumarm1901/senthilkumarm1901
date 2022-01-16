@@ -90,18 +90,20 @@
 
    - Total Experience: 11+ Years | 2010 - Present <br>
    - NLP Experience: 7+ Years | 2014 - Present <br>
-   - Market Research Experience: 4 Years | 2010 - 2014 <br>
+   - Market Research Experience: 4 Years | 2010 - 2014 
+<br>
 
 	
-	| Company            | Designation                               | Timeline         |
-	|--------------------|-------------------------------------------|------------------|
-	| Ford Motor Company | Deputy Manager                            | Nov'19 - Present |
-	|                    | Senior Analyst                            | May'18 - Oct'19  |
-	| LatentView         | Assistant Manager                         | Oct'16 - Apr'18  |
-	|                    | Senior Analyst                            | Apr'14 - Sep'16  |
-	| CapGemini          | Senior Consultant                         | Jan'14 - Mar'14  |
-	| Beroe              | Analyst<br>Senior Analyst<br>Lead Analyst | Jul'10 - Dec'13  |
-	
+| Company            | Designation                               | Timeline         |
+|--------------------|-------------------------------------------|------------------|
+| Ford Motor Company | Deputy Manager                            | Nov'19 - Present |
+|                    | Senior Analyst                            | May'18 - Oct'19  |
+| LatentView         | Assistant Manager                         | Oct'16 - Apr'18  |
+|                    | Senior Analyst                            | Apr'14 - Sep'16  |
+| CapGemini          | Senior Consultant                         | Jan'14 - Mar'14  |
+| Beroe              | Analyst<br>Senior Analyst<br>Lead Analyst | Jul'10 - Dec'13  |
+
+
 </details>
 
 <details> <summary> <b>Key Technical Skills</b> </summary>
