@@ -114,10 +114,10 @@
 
 
 
-	|                  | `Extensively Used`                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                 | `Working Knowledge`                                                                                                                                                                                                                                                                                                                                                                                                                                |
+	|         <img width=50/>          |  `Extensively Used` <img width=200/>                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                             |  `Working Knowledge`  <img width=200/>                                                                                                                                                                                                                                                                                                                                                                                                                               |
 	|------------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-	| Tools             | ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge=white) ![Git](https://img.shields.io/badge/GitHub-100000?style=for-the-badge=white) <br> ![Shell](https://img.shields.io/badge/Linux/WSL-121011?style=for-the-badge=white) ![Markdown](https://img.shields.io/badge/Markdown-000000?style=for-the-badge=white) <br> ![Jupyter](https://img.shields.io/badge/Jupyter-F37626.svg?&style=for-the-badge=white) ![PyCharm](https://img.shields.io/badge/pycharm-143?style=for-the-badge=green) ![Docker](https://img.shields.io/badge/-Docker-green?style=for-the-badge=white) | ![Kubernetes](https://img.shields.io/badge/-Kubernetes-blue?style=for-the-badge=white) ![Poetry](https://img.shields.io/badge/-Poetry-brown?style=for-the-badge=white) ![Venv](https://img.shields.io/badge/-Venv-black?style=for-the-badge=white) ![Conda](https://img.shields.io/badge/-Conda-orange?style=for-the-badge=white)                                                                                                                  |
-	| Python Libraries | ![SpaCy](https://img.shields.io/badge/-SpaCy-green?style=for-the-badge=white) ![HuggingFace Transformers](https://img.shields.io/badge/-Transformers-blue?style=for-the-badge=white) <br> ![PyTorch](https://img.shields.io/badge/-PyTorch-brown?style=for-the-badge=white) ![Pandas](https://img.shields.io/badge/-Pandas-black?style=for-the-badge=white)<br> ![regex](https://img.shields.io/badge/-RegEx-orange?style=for-the-badge=white) ![sklearn](https://img.shields.io/badge/-Sklearn-orange?style=for-the-badge=white)<br>                                                              | ![PySpark](https://img.shields.io/badge/-PySpark-green?style=for-the-badge=white) ![Altair/Seaborn](https://img.shields.io/badge/-Seaborn/Altair-blue?style=for-the-badge=white)<br> ![GenSim](https://img.shields.io/badge/-GenSim-brown?style=for-the-badge=white) ![FastAPI](https://img.shields.io/badge/-FastAPI-orange?style=for-the-badge=white) ![Streamlit](https://img.shields.io/badge/-Streamlit-yellow?style=for-the-badge=black)<br> |
+	| Tools             | ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge=white) ![Git](https://img.shields.io/badge/GitHub-100000?style=for-the-badge=white) ![Shell](https://img.shields.io/badge/Linux/WSL-121011?style=for-the-badge=white) ![Markdown](https://img.shields.io/badge/Markdown-000000?style=for-the-badge=white) ![Jupyter](https://img.shields.io/badge/Jupyter-F37626.svg?&style=for-the-badge=white) ![PyCharm](https://img.shields.io/badge/pycharm-143?style=for-the-badge=green) ![Docker](https://img.shields.io/badge/-Docker-green?style=for-the-badge=white) | ![Kubernetes](https://img.shields.io/badge/-Kubernetes-blue?style=for-the-badge=white) ![Poetry](https://img.shields.io/badge/-Poetry-brown?style=for-the-badge=white) ![Venv](https://img.shields.io/badge/-Venv-black?style=for-the-badge=white) ![Conda](https://img.shields.io/badge/-Conda-orange?style=for-the-badge=white)                                                                                                                  |
+	| Python Libraries | ![SpaCy](https://img.shields.io/badge/-SpaCy-green?style=for-the-badge=white) ![HuggingFace Transformers](https://img.shields.io/badge/-Transformers-blue?style=for-the-badge=white) ![PyTorch](https://img.shields.io/badge/-PyTorch-brown?style=for-the-badge=white) ![Pandas](https://img.shields.io/badge/-Pandas-black?style=for-the-badge=white) ![regex](https://img.shields.io/badge/-RegEx-orange?style=for-the-badge=white) ![sklearn](https://img.shields.io/badge/-Sklearn-orange?style=for-the-badge=white)                                                            | ![PySpark](https://img.shields.io/badge/-PySpark-green?style=for-the-badge=white) ![Altair/Seaborn](https://img.shields.io/badge/-Seaborn/Altair-blue?style=for-the-badge=white)<br> ![GenSim](https://img.shields.io/badge/-GenSim-brown?style=for-the-badge=white) ![FastAPI](https://img.shields.io/badge/-FastAPI-orange?style=for-the-badge=white) ![Streamlit](https://img.shields.io/badge/-Streamlit-yellow?style=for-the-badge=black)<br> |
 
 </details>
 	
@@ -152,39 +152,42 @@
 
 ## :office_worker: Short Summaries of my Key Projects ... 
 
-<details><summary>Project #1: Aspect-based Sentiment Analysis</summary>
+<details><summary>Project #1: <b> Aspect-based Sentiment Analysis </b> </summary>
 
 <br>
 	
 - Built a reusable Sequence Classification ML Pipeline which converts customer comments into `Aspects` and `Sentiment`
-- USPs of the Pipeline: 
-    - Spark Preprocessing, TL+Clustering aided Annotation and Dockerized Transformer Fine-tuned Model Training and Inference 
-    - Less annotation for Training (compared to traditional ML) by intelligent use of DL models
+- Highlights of the Pipeline: 
+    - Spark+Spacy Preprocessing
+    - Transfer Learning + Clustering aided Annotation 
+        - Less annotation for Training (compared to traditional ML) by intelligent use of DL+ML models
+    - Dockerized Environment for Model Training and Inference 
+    - Fine-tuned Transformer models
  - Look [here](https://github.com/senthilkumarm1901/senthilkumarm1901/blob/main/KeyProjects.md#project-1-aspect-based-sentiment-analysis) for more details
 
 </details>
 	
-<details><summary>Project #2: Personally Identifiable Information (PII) Detection using NER</summary>
+<details><summary>Project #2: <b>Personally Identifiable Information (PII) Detection using NER</b></summary>
 
 <br>
 	
 - Annonymized PII in text data that resulted in less restricted use of the data 
     - by building a Named Entity Recognition (NER) system that can detect PII 
-- USPs of the Pipeline: 
+- Highlights of the Pipeline: 
     - Bootstrapped the training data using Spacy rules (thus easing the annotation process)
     - Spacy's Roberta Base Transformer model allowed for no truncation of sentence max length
     - Inference REST API (via an asynchronous FastAPI deployment using K8s) that can be plugged into multiple applications
  - Look [here](https://github.com/senthilkumarm1901/senthilkumarm1901/blob/main/KeyProjects.md#project-2-personally-identifiable-information-pii-detection-using-ner) for more details
 </details>
 
-<details><summary>Project #3: Unsupervised Clustering Pipeline</summary>
+<details><summary><b>Project #3: Unsupervised Clustering Pipeline</b></summary>
 
 <br>
 	
 	
 - Built reusable Text Clustering pipelines 
     - for deriving actionable insights from unlabeled text corpus
-- USPs of the Pipeline: 
+- Highlights of the Pipeline: 
     - The clustering pipeline provided options for both Traditional Topic Modeling and DL-Embedding based Hard Clustering
     - Incorporated the models into an easy-to-use `Streamlit` UI deployed via K8s 
     - The codebase was built on top of the main open source libraries
