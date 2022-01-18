@@ -31,10 +31,10 @@
 
 ## :hammer_and_wrench: I typically build ...
 
-   - NLP applications with ...
-       - state-of-the-art **transfer learning models** (Feature Extraction and Fine-tuning)
-       - customized text preprocessing logic using computational linguistic techniques wherever it helps!
-       - deployed using Python CLI apps, **FastAPI REST APIs** or **Streamlit UIs** in Kubernetes
+   - NLP applications ...
+       - with state-of-the-art **transfer learning models** (Feature Extraction and Fine-tuning)
+       - with customized text preprocessing logic using computational linguistic techniques wherever it helps!
+       - which are deployed using Python CLI apps, **FastAPI REST APIs** or **Streamlit UIs** in Kubernetes
    - codebase ...
        - which is reusable, replicable and runnable in **docker containers**
        - which is modularized and packaged (as `from some_internal_package import what_you_need`)
