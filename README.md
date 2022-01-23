@@ -290,9 +290,7 @@
 
 <blockquote>
    
-- Here is my [résumé](https://github.com/senthilkumarm1901/senthilkumarm1901/blob/main/Senthil_Kumar_Resume.pdf) in pdf <br>
+- Here is my [résumé](https://github.com/senthilkumarm1901/senthilkumarm1901/blob/main/SenthilKumar_Resume_Jan_2022.pdf) in pdf <br>
 
-     [<img src="resume_snapshot_github.jpg" alt="Resume" width="150" height="250">](https://github.com/senthilkumarm1901/senthilkumarm1901/blob/main/Senthil_Kumar_Resume.pdf)
-'
 </blockquote>
 </details>
