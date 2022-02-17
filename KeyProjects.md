@@ -9,7 +9,7 @@
   
  - Built a reusable **Sequence Text Classification ML Pipeline**
      - which used BERT-fine-tuning 
-     - where free-text was converted into **(Aspect, Sentiment)** pairs
+     - where free-flowing text was converted into **(Aspect, Sentiment)** pairs
      - where the # of Aspect labels are typically more than 25
      - which had easy to use human-in-the-loop annotation scripts that can 
          - do efficient clustering of yet-to-be labeled data and
