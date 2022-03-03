@@ -194,9 +194,50 @@
  </blockquote>
  
  
-### Project #4: A Unsupervised + Supervised NLP Semantic Search Pipeline
+### Project #4: An NLP Semantic Search Pipeline
 (inspired by the workings of a NLP QA system but for Semantic Search) 
+
+<details><summary><b>Project Summary</b></summary>
+
+	
+- Goal: To create "digital threads" for connecting automotive data sources
+	- which has technician comments about issues before the launch of a vehicle,
+	- by assigning semantically matching common part categories to every issue in both data sources 
+    
+- Business Context
+	- The data sources contain technician comments about issues in a vehicle development before the final launch of a vehicle. 
+	- The connection is established through NLP techniques (like semantic search, NER) where the right parts are attributed to each issue. 
+	- Parts attribution acts a common language - the thread - joining two or more data sources. 
+	- The creation of a digital thread helps in prioritizing issues that might delay launch by predicting its prevalence in downstream databases.
+	- Every unsolved issues closer to the launch can impact hugely on delivery timelines
+	
+</details>
+	
+<details><summary> <b>Methodology Workflow</b> </summary>
+
+	
+- Built a pipeline that ensembles results of 3 pairs of Retriever-Reader models wherein
+    - the Retriever narrows down the search space and
+    - the Reader zeroes in on the right results
+
+- Built a simple Streamlit UI interface for a business user to try the approach
+- Created a CLI app for a domain analyst to experiment with different hyperparameters in parallel across different GPUs
+</details>		
+
+<details><summary><b>Technology Stack</b></summary>
  
+ <br>
+ 
+![Sentence Transformers](https://img.shields.io/badge/-SentenceTransformers-green?style=for-the-badge=white) 
+![HuggingFace Transformers](https://img.shields.io/badge/-Transformers-blue?style=for-the-badge=white) 
+![SpaCy](https://img.shields.io/badge/-SpaCy-green?style=for-the-badge=white) 
+![Sklearn](https://img.shields.io/badge/-Sklearn-green?style=for-the-badge=white) 
+![Docker](https://img.shields.io/badge/-Docker-green?style=for-the-badge=white) 
+![Kubernetes](https://img.shields.io/badge/-Kubernetes-blue?style=for-the-badge=white) 
+![Streamlit](https://img.shields.io/badge/-Streamlit-yellow?style=for-the-badge=black)  
+ 
+ </details> 
+	
 ### Project #5: Social Media Data Analysis
   
 ### Project #6: Multi-GPU Neural Machine Translation (NMT) Inference Pipeline
