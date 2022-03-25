@@ -29,19 +29,20 @@
        - use Sklearn in case of ML models and PyTorch ecosystem for DL
        - use Pandas, Altair, Jupyter and Streamlit for Data Explorations and Visualization
 
-## :hammer_and_wrench: I typically build ...
+## :hammer_and_wrench: I typically build NLP applications ...
 
-   - NLP applications ...
-       - with state-of-the-art **transfer learning models** (Feature Extraction and Fine-tuning)
-       - with customized text preprocessing logic using computational linguistic techniques wherever it helps!
-       - which are deployed using Python CLI apps, **FastAPI REST APIs** or **Streamlit UIs** in Kubernetes
-   - codebase ...
-       - which is reusable, replicable and runnable in **docker containers**
-       - which is modularized and packaged (as `from some_internal_package import what_you_need`)
-       - committed to **GitHub** for co-development and issue-resolution
-       - with docstrings and pytests, subjected to **Pull Requests** when multiple developers are involved
+- with state-of-the-art **transfer learning models** (Feature Extraction and Fine-tuning)
+- with customized text preprocessing logic using computational linguistic techniques wherever it helps!
+- which are deployed using Python CLI apps, **FastAPI REST APIs** or **Streamlit UIs** in Kubernetes
 
-   - using ...
+## :hammer_and_wrench: I typically write codebase ...
+
+- which is reusable, replicable and runnable in **docker containers**
+- which is modularized and packaged (as `from some_internal_package import what_you_need`)
+- committed to **GitHub** for co-development and issue-resolution
+- with docstrings and pytests, subjected to **Pull Requests** when multiple developers are involved
+
+## :hammer_and_wrench: I typically build using ...
 
 
 |         <img width=50/>          |  `Extensively Used` <img width=200/>                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                             |  `Working Knowledge`  <img width=200/>                                                                                                                                                                                                                                                                                                                                                                                                                               |
