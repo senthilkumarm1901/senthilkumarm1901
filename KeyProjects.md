@@ -163,8 +163,8 @@
     - Embedding options: Employ any good Sentence Embedding technique
         - SentenceBERT (`sentence transformers` library)
         - Universal Sentence Coder (via TFHub)
-- Indexing: Approx. Nearest Neighbours (ANNoy) on top of Embedding
-- Clustering options: KMeans OR HDBSCAN
+    - Indexing: Approx. Nearest Neighbours (ANNoy) on top of Embedding
+    - Clustering options: KMeans OR HDBSCAN
  
 **Methodology 2**: <br>
 - *Traditional Embedding and Topic Modeling*
