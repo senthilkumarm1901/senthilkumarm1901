@@ -14,10 +14,20 @@
 	- The creation of a digital thread helps in prioritizing issues that might delay launch by predicting its prevalence in downstream databases.
 	- Every unsolved issues closer to the launch can impact hugely on delivery timelines
 
-### Methodology Workflow
+### Detailed Pipeline
 
 ![SBERT Source](https://raw.githubusercontent.com/UKPLab/sentence-transformers/master/docs/img/InformationRetrieval.png)
 
 - Inspired by the above Retriever - Reader pipeline but strengthened it by ensembling results of 3 pairs of Retriever-Reader models wherein
-    - the Retriever narrows down the search space and
-    - the Reader zeroes in on the right results
+    - the `Retriever` narrows down the search space and
+    - the `Reader` zeros in on the right results
+
+- Ensemble of 3 `Retriever-Reader` Models
+
+![](../images/proj_3_semantic_search_main_pipeline.png)
+
+<details><summary>* Retriever Bi Encoder (RBE) pipeline</summary>
+
+![](../images/proj3_semantic_search_sub_pipeline.png)
+
+</details>
