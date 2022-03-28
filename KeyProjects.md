@@ -41,7 +41,7 @@
 - The codebase was used to build *30+ different Text Classification Models*
     - using the same ML pipeline/framework where each model had 20-30 classes to predict 
 - Our repo's framework and models warranted far less human annotated data (than using a typical ML model)
-- This was possible because both **Feature Extraction** :snowflake: (for clustering) and **Fine-tuning** :fire: (for BERT Fine-tuning was used
+- This was possible because both **Feature Extraction** :snowflake: (for clustering) and **Fine-tuning** :fire: was used
 
  </details>
 
