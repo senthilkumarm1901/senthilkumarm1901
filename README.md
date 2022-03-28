@@ -3,7 +3,7 @@
 </h1>
 
 <p align='center'>
-  I am an Applied Data Scientist working on Natural Language Processing (NLP) focused Analytics Projects.
+  A Data Scientist specialized in solving NLP problems using ML and DL
 </p>
 
 <p align='center'>
