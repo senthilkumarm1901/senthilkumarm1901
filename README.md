@@ -184,23 +184,7 @@
  - Look [here](https://github.com/senthilkumarm1901/senthilkumarm1901/blob/main/project_descriptions/pii_ner.md) for more details
 </details>
 
-<details><summary><b>Project #3: Unsupervised Clustering Pipeline</b></summary>
-
-<br>
-	
-	
-- Built reusable Text Clustering pipelines 
-    - for deriving actionable insights from unlabeled text corpus
-- Highlights of the Pipeline: 
-    - The clustering pipeline provided options for both Traditional Topic Modeling and DL-Embedding based Hard Clustering
-    - Incorporated the models into an easy-to-use `Streamlit` UI deployed via K8s 
-    - The codebase was built on top of the main open source libraries
-        - PyTorch (Transformers, Sentence Transformers) and Sklearn
- - Look [here](https://github.com/senthilkumarm1901/senthilkumarm1901/blob/main/project_descriptions/text_clustering.md) for more details
-
-</details>
-
-<details><summary><b>Project #4: NLP Semantic Search Pipeline</b></summary>
+<details><summary><b>Project #3: NLP Semantic Search Pipeline</b></summary>
 
 <br>
 
@@ -213,6 +197,22 @@
 	- the `Reader` zeroes in on the right results
     
  - Look [here](https://github.com/senthilkumarm1901/senthilkumarm1901/blob/main/project_descriptions/semantic_search.md) for more details
+
+</details>
+
+<details><summary><b>Project #4: Unsupervised Clustering Pipeline</b></summary>
+
+<br>
+	
+	
+- Built reusable Text Clustering pipelines 
+    - for deriving actionable insights from unlabeled text corpus
+- Highlights of the Pipeline: 
+    - The clustering pipeline provided options for both Traditional Topic Modeling and DL-Embedding based Hard Clustering
+    - Incorporated the models into an easy-to-use `Streamlit` UI deployed via K8s 
+    - The codebase was built on top of the main open source libraries
+        - PyTorch (Transformers, Sentence Transformers) and Sklearn
+ - Look [here](https://github.com/senthilkumarm1901/senthilkumarm1901/blob/main/project_descriptions/text_clustering.md) for more details
 
 </details>
 
