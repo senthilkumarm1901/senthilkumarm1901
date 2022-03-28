@@ -31,13 +31,13 @@
 
  ![](../images/proj2_pii_ner_main_pipeline.png)
  
-   <details><summary>*Rules-based NER Sub-pipeline</summary>
+   <details><summary> Rules-based NER Sub-pipeline</summary>
  
   ![sub-pipeline1](../images/proj2_pii_nersub_pipeline1.png)
 
   </details>
 
-  <details><summary>*Model-based NER Sub-pipeline</summary>
+  <details><summary> Model-based NER Sub-pipeline</summary>
  
   ![image](https://user-images.githubusercontent.com/24909551/160360810-92e093e1-8d9f-4c18-90ac-e4606925b4f1.png)
 
