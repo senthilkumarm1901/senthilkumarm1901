@@ -3,7 +3,7 @@
 </h1>
 
 <p align='center'>
-  A Data Scientist specialized in solving NLP problems using ML and DL
+  A Data Scientist specialized in building Natural Language Processing applications using ML and DL
 </p>
 
 <p align='center'>
