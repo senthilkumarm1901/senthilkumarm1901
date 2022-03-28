@@ -184,7 +184,7 @@
  - Look [here](https://github.com/senthilkumarm1901/senthilkumarm1901/blob/main/project_descriptions/pii_ner.md) for more details
 </details>
 
-<details><summary><b>Project #3: NLP Semantic Search Pipeline</b></summary>
+<details><summary>Project #3: <b>NLP Semantic Search Pipeline</b></summary>
 
 <br>
 
@@ -200,7 +200,7 @@
 
 </details>
 
-<details><summary><b>Project #4: Unsupervised Clustering Pipeline</b></summary>
+<details><summary>Project #4: <b>Unsupervised Clustering Pipeline</b></summary>
 
 <br>
 	
