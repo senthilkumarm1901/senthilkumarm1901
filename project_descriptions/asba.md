@@ -44,14 +44,14 @@
  ![](../images/proj1_full_pipeline.png)
 
 
-  <details><summary>*Text2Embedding Sub-pipeline</summary>
+  <details><summary> Text2Embedding Sub-pipeline</summary>
  
   ![sub-pipeline1](../images/proj1_spark_plus_embedding.png)
 
   </details>
   
    
-   <details><summary>*Efficient Annotation Sub-pipeline</summary>
+   <details><summary> Efficient Annotation Sub-pipeline</summary>
  
   ![sub-pipeline1](../images/proj1_annotation_pipeline.png)
  
