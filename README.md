@@ -167,7 +167,7 @@
         - Less annotation for Training (compared to traditional ML) by intelligent use of DL+ML models
     - Dockerized Environment for Model Training and Inference 
     - Fine-tuned Transformer models
- - Look [here](https://github.com/senthilkumarm1901/senthilkumarm1901/blob/main/KeyProjects.md#project-1-aspect-based-sentiment-analysis) for more details
+ - Look [here](https://github.com/senthilkumarm1901/senthilkumarm1901/blob/main/project_descriptions/asba.md) for more details
 
 </details>
 	
@@ -181,7 +181,7 @@
     - Bootstrapped the training data using Spacy rules (thus easing the annotation process)
     - Spacy's Roberta Base Transformer model allowed for no truncation of sentence max length
     - Inference REST API (via an asynchronous FastAPI deployment using K8s) that can be plugged into multiple applications
- - Look [here](https://github.com/senthilkumarm1901/senthilkumarm1901/blob/main/KeyProjects.md#project-2-personally-identifiable-information-pii-detection-using-ner) for more details
+ - Look [here](https://github.com/senthilkumarm1901/senthilkumarm1901/blob/main/project_descriptions/pii_ner.md) for more details
 </details>
 
 <details><summary><b>Project #3: Unsupervised Clustering Pipeline</b></summary>
@@ -196,7 +196,23 @@
     - Incorporated the models into an easy-to-use `Streamlit` UI deployed via K8s 
     - The codebase was built on top of the main open source libraries
         - PyTorch (Transformers, Sentence Transformers) and Sklearn
- - Look [here](https://github.com/senthilkumarm1901/senthilkumarm1901/blob/main/KeyProjects.md#project-3-unsupervised-text-data-clustering-pipeline) for more details
+ - Look [here](https://github.com/senthilkumarm1901/senthilkumarm1901/blob/main/project_descriptions/text_clustering.md) for more details
+
+</details>
+
+<details><summary><b>Project #4: NLP Semantic Search Pipeline</b></summary>
+
+<br>
+
+- Goal: To create "digital threads" for connecting automotive data sources
+	- which has technician comments about issues before the launch of a vehicle,
+	- by assigning semantically matching common part categories to every issue in both data sources 
+	
+- Built a pipeline that ensembles results of `3 pairs of Retriever-Reader models` wherein
+	- the `Retriever` narrows down the search space and
+	- the `Reader` zeroes in on the right results
+    
+ - Look [here](https://github.com/senthilkumarm1901/senthilkumarm1901/blob/main/project_descriptions/semantic_search.md) for more details
 
 </details>
 
