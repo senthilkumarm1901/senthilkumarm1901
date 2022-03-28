@@ -29,11 +29,11 @@
 
 ### Detailed Pipeline
 
- ![](images/proj2_pii_ner_main_pipeline.png)
+ ![](../images/proj2_pii_ner_main_pipeline.png)
  
    <details><summary>*Rules-based NER Sub-pipeline</summary>
  
-  ![sub-pipeline1](images/proj2_pii_nersub_pipeline1.png)
+  ![sub-pipeline1](../images/proj2_pii_nersub_pipeline1.png)
 
   </details>
 
