@@ -14,6 +14,19 @@
 	- The creation of a digital thread helps in prioritizing issues that might delay launch by predicting its prevalence in downstream databases.
 	- Every unsolved issues closer to the launch can impact hugely on delivery timelines
 
+
+### Technology Stack
+ 
+![Sentence Transformers](https://img.shields.io/badge/-SentenceTransformers-green?style=for-the-badge=white) 
+![HuggingFace Transformers](https://img.shields.io/badge/-Transformers-blue?style=for-the-badge=white) 
+![SpaCy](https://img.shields.io/badge/-SpaCy-green?style=for-the-badge=white) 
+![Sklearn](https://img.shields.io/badge/-Sklearn-green?style=for-the-badge=white) 
+![Docker](https://img.shields.io/badge/-Docker-green?style=for-the-badge=white) 
+![Kubernetes](https://img.shields.io/badge/-Kubernetes-blue?style=for-the-badge=white) 
+![Streamlit](https://img.shields.io/badge/-Streamlit-yellow?style=for-the-badge=black)  
+ 
+
+
 ### Detailed Pipeline
 
 ![SBERT Source](https://raw.githubusercontent.com/UKPLab/sentence-transformers/master/docs/img/InformationRetrieval.png)
@@ -26,7 +39,7 @@
 
 ![](../images/proj_3_semantic_search_main_pipeline.png)
 
-<details><summary>* Retriever Bi Encoder (RBE) pipeline</summary>
+<details><summary> Retriever Bi Encoder (RBE) pipeline</summary>
 
 ![](../images/proj3_semantic_search_sub_pipeline.png)
 
