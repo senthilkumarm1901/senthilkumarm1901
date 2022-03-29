@@ -2,7 +2,7 @@
 
 ### Project Summary
 
- - Goal To replace PII in text data
+- Goal: To replace PII in text data
     - by building a **NER** system that can detect PII in text comments and
     - can result in less restricted use of the data
 - Annonymized PII in text data
