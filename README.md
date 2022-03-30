@@ -14,6 +14,9 @@
   <a href="https://www.linkedin.com/in/senthilkumarm1901/">
     <img src="https://img.shields.io/badge/-/in/senthilkumarm1901/-blue?&style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>&nbsp;&nbsp;
+  <a href="https://senthilkumarm1901.github.io/myResume/">
+    <img src="https://img.shields.io/badge/-/PDF/Resume/-blue?&style=for-the-badge&logoColor=white" />
+  </a>&nbsp;&nbsp;
   <a href="mailto:senthilkumar.m1901@gmail.com">
     <img src="https://img.shields.io/badge/-senthilkumar.m1901@gmail.com-c14438?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:senthilkumar.m1901@gmail.com" />        
   </a>&nbsp;&nbsp;
