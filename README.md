@@ -310,7 +310,7 @@
 
 <blockquote>
    
-- Here is my [résumé](https://github.com/senthilkumarm1901/senthilkumarm1901/blob/main/Senthil_Kumar_Resume_17_Feb_2022.pdf) in pdf <br>
+- Here is my [résumé](https://senthilkumarm1901.github.io/myResume/) in pdf <br>
 
 </blockquote>
 </details>
