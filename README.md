@@ -10,17 +10,27 @@
   You can reach me via
 </p>
 
-<p align='center'>
-  <a href="https://www.linkedin.com/in/senthilkumarm1901/">
-    <img src="https://img.shields.io/badge/-/in/senthilkumarm1901/-blue?&style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>&nbsp;&nbsp;
-  <a href="https://senthilkumarm1901.github.io/myResume/">
-    <img src="https://img.shields.io/badge/-/PDF/Resume/-blue?&style=for-the-badge&logoColor=white" />
-  </a>&nbsp;&nbsp;
-  <a href="mailto:senthilkumar.m1901@gmail.com">
-    <img src="https://img.shields.io/badge/-senthilkumar.m1901@gmail.com-c14438?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:senthilkumar.m1901@gmail.com" />        
-  </a>&nbsp;&nbsp;
-
+<p  align='center'>
+  <hr class="about-sep">
+  <div class="about-links">
+  <a href="https://www.linkedin.com/in/senthilkumarm1901/" class="about-link" rel="" target="">
+    <i class="bi bi-linkedin"></i>
+     <span class="about-link-text">LinkedIn</span>
+  </a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://github.com/senthilkumarm1901" class="about-link" rel="" target="">
+    <i class="bi bi-github"></i>
+     <span class="about-link-text">Github</span>
+  </a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://senthilkumarm1901.github.io/myResume" class="about-link" rel="" target="">
+    <i class="bi bi-Resume"></i>
+     <span class="about-link-text">myResume</span>
+  </a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://senthilkumarm1901.quarto.pub/learn-by-blogging/blog.html" class="about-link" rel="" target="">
+    <i class="bi bi-gmail"></i>
+     <span class="about-link-text">Blog</span>
+  </a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+ </div>
+ <hr class="about-sep">
 </p>
 
 ## :man_in_tuxedo: I am a ...
