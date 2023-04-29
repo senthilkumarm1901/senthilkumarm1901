@@ -13,22 +13,24 @@
 <p  align='center'>
   <hr class="about-sep">
   <div class="about-links">
+ &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://www.linkedin.com/in/senthilkumarm1901/" class="about-link" rel="" target="">
     <i class="bi bi-linkedin"></i>
      <span class="about-link-text">LinkedIn</span>
-  </a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  </a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://github.com/senthilkumarm1901" class="about-link" rel="" target="">
     <i class="bi bi-github"></i>
      <span class="about-link-text">Github</span>
-  </a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  </a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://senthilkumarm1901.github.io/myResume" class="about-link" rel="" target="">
     <i class="bi bi-Resume"></i>
      <span class="about-link-text">myResume</span>
-  </a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  </a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://senthilkumarm1901.quarto.pub/learn-by-blogging/blog.html" class="about-link" rel="" target="">
     <i class="bi bi-gmail"></i>
      <span class="about-link-text">Blog</span>
-  </a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  </a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
  </div>
  <hr class="about-sep">
 </p>
@@ -85,6 +87,50 @@
 
 ## :chart_with_upwards_trend: My Career Graph ...
 
+<p  align='center'>
+  <hr class="about-sep">
+  <div class="about-links">
+  <a href="https://www.linkedin.com/company/toyota-connected-india-pvt-ltd/mycompany/" class="about-link" rel="" target="">
+    <i class="bi bi-linkedin"></i>
+     <span class="about-link-text">Toyota Connected India</span>
+  </a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://www.linkedin.com/company/ford-motor-company/" class="about-link" rel="" target="">
+    <i class="bi bi-github"></i>
+     <span class="about-link-text">Ford (GDIA Skill division) </span>
+  </a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://www.linkedin.com/company/latentview-analytics/" class="about-link" rel="" target="">
+    <i class="bi bi-Resume"></i>
+     <span class="about-link-text">LatentView Analytics</span>
+  </a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://www.linkedin.com/company/beroe-inc/" class="about-link" rel="" target="">
+    <i class="bi bi-gmail"></i>
+     <span class="about-link-text">Beroe - A Procurement MR Firm</span>
+  </a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <br>
+ </div>
+ <hr class="about-sep">
+</p>
+
+<b>Work Experience Summary</b>
+
+<br>
+
+   - Total Experience: 12+ Years | 2010 - Present <br>
+   - NLP Experience: 8+ Years | 2014 - Present <br>
+   - Market Research Experience: 4 Years | 2010 - 2014 
+<br>
+
+	
+| Company            | Designation                               | Timeline         |
+|--------------------|-------------------------------------------|------------------|
+| Toyota Connected India | Senior ML Engineer                    | Jul'22 - Present  |
+| Ford Motor Company | Deputy Manager                            | Nov'19 - Jun'22  |
+|                    | Senior Analyst                            | May'18 - Oct'19  |
+| LatentView         | Assistant Manager                         | Oct'16 - Apr'18  |
+|                    | Senior Analyst                            | Apr'14 - Sep'16  |
+| Beroe              | Analyst<br>Senior Analyst<br>Lead Analyst | Jul'10 - Dec'13  |
+
+
 <blockquote>
 	
     
@@ -112,28 +158,7 @@
 
 </details>
 
-<details> <summary> <b>Work Experience Summary</b> </summary>
 
-<br>
-
-   - Total Experience: 11+ Years | 2010 - Present <br>
-   - NLP Experience: 7+ Years | 2014 - Present <br>
-   - Market Research Experience: 4 Years | 2010 - 2014 
-<br>
-
-	
-| Company            | Designation                               | Timeline         |
-|--------------------|-------------------------------------------|------------------|
-| Toyota Connected India | Senior ML Engineer                    | Nov'19 - Jun'22  |
-| Ford Motor Company | Deputy Manager                            | Nov'19 - Jun'22  |
-|                    | Senior Analyst                            | May'18 - Oct'19  |
-| LatentView         | Assistant Manager                         | Oct'16 - Apr'18  |
-|                    | Senior Analyst                            | Apr'14 - Sep'16  |
-| CapGemini          | Senior Consultant                         | Jan'14 - Mar'14  |
-| Beroe              | Analyst<br>Senior Analyst<br>Lead Analyst | Jul'10 - Dec'13  |
-
-
-</details>
 
 <details> <summary> <b>Key Technical Skills</b> </summary>
 
