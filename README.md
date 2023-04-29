@@ -79,11 +79,13 @@
 	
     
 <details> <summary> <b>Current Role</b> </summary>
+	
+- Since Jul'22, I work in Toyota Connected India
+- I co-develop NLP applications in cloud with a team of Software Engineers to aid Connected Car customers
 
 <br>
 	
-   - Since May'18, I have been working in data science `NLP projects` at <i><b>Ford Analytics Division</i></b> <br> 
-   - Worked for teams such as Artificial Intelligence Advancement Center, Customer Experience and Operations Analytics
+
 
 </details>
 
@@ -91,6 +93,8 @@
 
 <br>
 	
+   - From May'18 till Jun'22, I have been working in data science `NLP projects` at <i><b>Ford Analytics Division</i></b> <br> 
+   - Worked for teams such as Artificial Intelligence Advancement Center, Customer Experience and Operations Analytics
    - For 4 years, I had offered `Social Media Analytics` and Text Analysis solutions to a F100 Tech client of <i><b>LatentView Analytics</b></i> <br>
    - In the first 4 years of my career, I had worked in Market Research domain. 
 
@@ -108,7 +112,8 @@
 	
 | Company            | Designation                               | Timeline         |
 |--------------------|-------------------------------------------|------------------|
-| Ford Motor Company | Deputy Manager                            | Nov'19 - Present |
+| Toyota Connected India | Senior ML Engineer                    | Nov'19 - Jun'22  |
+| Ford Motor Company | Deputy Manager                            | Nov'19 - Jun'22  |
 |                    | Senior Analyst                            | May'18 - Oct'19  |
 | LatentView         | Assistant Manager                         | Oct'16 - Apr'18  |
 |                    | Senior Analyst                            | Apr'14 - Sep'16  |
