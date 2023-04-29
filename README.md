@@ -3,7 +3,7 @@
 </h1>
 
 <p align='center'>
-  A Data Scientist specialized in building Natural Language Processing applications using ML and DL
+  A ML Engineer specialized in building Natural Language Processing applications using Deep Learning models
 </p>
 
 <p align='center'>
@@ -79,6 +79,8 @@
 	
     
 <details> <summary> <b>Current Role</b> </summary>
+
+<br>
 	
 - Since Jul'22, I work in Toyota Connected India
 - I co-develop NLP applications in cloud with a team of Software Engineers to aid Connected Car customers
