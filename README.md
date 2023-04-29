@@ -44,47 +44,6 @@
        - use Sklearn in case of ML models and PyTorch ecosystem for DL
        - use Pandas, Altair, Jupyter and Streamlit for Data Explorations and Visualization
 
-## :hammer_and_wrench: I typically build NLP applications ...
-
-- with state-of-the-art **transfer learning models** (Feature Extraction and Fine-tuning)
-- with customized text preprocessing logic using computational linguistic techniques wherever it helps!
-- which are deployed using Python CLI apps, **FastAPI REST APIs** or **Streamlit UIs** in Kubernetes
-
-## :hammer_and_wrench: I typically write codebase ...
-
-- which is reusable, replicable and runnable in **docker containers**
-- which is modularized and packaged (as `from some_internal_package import what_you_need`)
-- committed to **GitHub** for co-development and issue-resolution
-- with docstrings and pytests, subjected to **Pull Requests** when multiple developers are involved
-
-## :hammer_and_wrench: I typically build using ...
-
-
-|         <img width=50/>          |  `Extensively Used` <img width=200/>                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                             |  `Working Knowledge`  <img width=200/>                                                                                                                                                                                                                                                                                                                                                                                                                               |
-|------------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| **Tools**             | ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge=white) ![Git](https://img.shields.io/badge/GitHub-100000?style=for-the-badge=white) ![Shell](https://img.shields.io/badge/Linux/WSL-121011?style=for-the-badge=white) ![Markdown](https://img.shields.io/badge/Markdown-000000?style=for-the-badge=white) <br>![Jupyter](https://img.shields.io/badge/Jupyter-F37626.svg?&style=for-the-badge=white) ![PyCharm](https://img.shields.io/badge/PyCharm-143?style=for-the-badge=green) ![Docker](https://img.shields.io/badge/-Docker-green?style=for-the-badge=white) | ![Kubernetes](https://img.shields.io/badge/-Kubernetes-blue?style=for-the-badge=white) ![Poetry](https://img.shields.io/badge/-Poetry-brown?style=for-the-badge=white) <br>![Venv](https://img.shields.io/badge/-Venv-black?style=for-the-badge=white) ![Conda](https://img.shields.io/badge/-Conda-orange?style=for-the-badge=white)                                                                                                                  |
-| **Python Libraries** | ![SpaCy](https://img.shields.io/badge/-SpaCy-green?style=for-the-badge=white) ![HuggingFace Transformers](https://img.shields.io/badge/-Transformers-blue?style=for-the-badge=white) ![PyTorch](https://img.shields.io/badge/-PyTorch-brown?style=for-the-badge=white) <br> ![Pandas](https://img.shields.io/badge/-Pandas-black?style=for-the-badge=white) ![regex](https://img.shields.io/badge/-RegEx-orange?style=for-the-badge=white) ![sklearn](https://img.shields.io/badge/-Sklearn-orange?style=for-the-badge=white)                                                            | ![PySpark](https://img.shields.io/badge/-PySpark-green?style=for-the-badge=white) ![Altair/Seaborn](https://img.shields.io/badge/-Altair-blue?style=for-the-badge=white) ![GenSim](https://img.shields.io/badge/-GenSim-brown?style=for-the-badge=white) <br> ![FastAPI](https://img.shields.io/badge/-FastAPI-orange?style=for-the-badge=white) ![Streamlit](https://img.shields.io/badge/-Streamlit-yellow?style=for-the-badge=black)<br> |
-
-## :computer: While coding, I typically use tools such as ...
-
-   - **WSL** for local development, and linux machines for GPU-powered, dockerized applications development
-   - predominantly **PyCharm (Professional)** for remote development but use opensource **VS code** for local development
-   - **Jupyter Notebook** to learn coding concepts 
-   - **draw.io**, **mermaid** and **markdown** for flowcharts and documentation purposes
-
-## 📅 🎙️ While not coding, I typically use tools such as ...
-
-   - **OneNote** for taking lots of notes from emails, meetings and websites and  
-   - **Slack** for communicating, weekly updates and jotting down reminder messages to self
-   - **Microsoft PPT** for conveying data stories/insights to non-developer team mates or superiors
-
-## :bearded_person: Apart from being `a Data Science Developer`, I have donned the hat of ...
-
-   - A `People Manager` 
-       - directly managing the delivery of Social Media Analytics projects of 8+ members in my stint at `LatentView Analytics` 
-   - A `Technical Mentor/Trainer`
-       - enhancing the NLP/Python expertise of fellow team members or reportees 
-
 ## :chart_with_upwards_trend: My Career Graph ...
 
 <p  align='center'>
@@ -124,8 +83,7 @@
 | Company            | Designation                               | Timeline         |
 |--------------------|-------------------------------------------|------------------|
 | Toyota Connected India | Senior ML Engineer                    | Jul'22 - Present  |
-| Ford Motor Company | Deputy Manager                            | Nov'19 - Jun'22  |
-|                    | Senior Analyst                            | May'18 - Oct'19  |
+| Ford Motor Company | Senior Analyst <br>Deputy Manager                            | May'18  - Jun'22  |
 | LatentView         | Assistant Manager                         | Oct'16 - Apr'18  |
 |                    | Senior Analyst                            | Apr'14 - Sep'16  |
 | Beroe              | Analyst<br>Senior Analyst<br>Lead Analyst | Jul'10 - Dec'13  |
@@ -171,7 +129,60 @@
 </details>
 	
 </blockquote>
+
+## While Coding ...  
+
+<details> <summary> Click to Expand </summary>
+
+### :hammer_and_wrench: I typically build NLP applications ...
+
+- with state-of-the-art **transfer learning models** (Feature Extraction and Fine-tuning)
+- with customized text preprocessing logic using computational linguistic techniques wherever it helps!
+- which are deployed using Python CLI apps, **FastAPI REST APIs** or **Streamlit UIs** in Kubernetes
+
+### :hammer_and_wrench: I typically write codebase ...
+
+- which is reusable, replicable and runnable in **docker containers**
+- which is modularized and packaged (as `from some_internal_package import what_you_need`)
+- committed to **GitHub** for co-development and issue-resolution
+- with docstrings and pytests, subjected to **Pull Requests** when multiple developers are involved
+
+### :hammer_and_wrench: I typically build using ...
+
+
+|         <img width=50/>          |  `Extensively Used` <img width=200/>                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                             |  `Working Knowledge`  <img width=200/>                                                                                                                                                                                                                                                                                                                                                                                                                               |
+|------------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| **Tools**             | ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge=white) ![Git](https://img.shields.io/badge/GitHub-100000?style=for-the-badge=white) ![Shell](https://img.shields.io/badge/Linux/WSL-121011?style=for-the-badge=white) ![Markdown](https://img.shields.io/badge/Markdown-000000?style=for-the-badge=white) <br>![Jupyter](https://img.shields.io/badge/Jupyter-F37626.svg?&style=for-the-badge=white) ![PyCharm](https://img.shields.io/badge/PyCharm-143?style=for-the-badge=green) ![Docker](https://img.shields.io/badge/-Docker-green?style=for-the-badge=white) | ![Kubernetes](https://img.shields.io/badge/-Kubernetes-blue?style=for-the-badge=white) ![Poetry](https://img.shields.io/badge/-Poetry-brown?style=for-the-badge=white) <br>![Venv](https://img.shields.io/badge/-Venv-black?style=for-the-badge=white) ![Conda](https://img.shields.io/badge/-Conda-orange?style=for-the-badge=white)                                                                                                                  |
+| **Python Libraries** | ![SpaCy](https://img.shields.io/badge/-SpaCy-green?style=for-the-badge=white) ![HuggingFace Transformers](https://img.shields.io/badge/-Transformers-blue?style=for-the-badge=white) ![PyTorch](https://img.shields.io/badge/-PyTorch-brown?style=for-the-badge=white) <br> ![Pandas](https://img.shields.io/badge/-Pandas-black?style=for-the-badge=white) ![regex](https://img.shields.io/badge/-RegEx-orange?style=for-the-badge=white) ![sklearn](https://img.shields.io/badge/-Sklearn-orange?style=for-the-badge=white)                                                            | ![PySpark](https://img.shields.io/badge/-PySpark-green?style=for-the-badge=white) ![Altair/Seaborn](https://img.shields.io/badge/-Altair-blue?style=for-the-badge=white) ![GenSim](https://img.shields.io/badge/-GenSim-brown?style=for-the-badge=white) <br> ![FastAPI](https://img.shields.io/badge/-FastAPI-orange?style=for-the-badge=white) ![Streamlit](https://img.shields.io/badge/-Streamlit-yellow?style=for-the-badge=black)<br> |
+
+### :computer: I typically use tools such as ...
+
+   - **WSL** for local development, and linux machines for GPU-powered, dockerized applications development
+   - predominantly **PyCharm (Professional)** for remote development but use opensource **VS code** for local development
+   - **Jupyter Notebook** to learn coding concepts 
+   - **draw.io**, **mermaid** and **markdown** for flowcharts and documentation purposes
+
+</details>
 	
+	
+## While not coding ...
+
+<details> <summary> Click to Expand </summary>
+
+###  📅 🎙️ I typically use tools such as ...
+
+   - **OneNote** for taking lots of notes from emails, meetings and websites and  
+   - **Slack** for communicating, weekly updates and jotting down reminder messages to self
+   - **Microsoft PPT** for conveying data stories/insights to non-developer team mates or superiors
+
+### :bearded_person: Apart from being `a Data Science Developer`, I have donned the hat of ...
+
+   - A `People Manager` 
+       - directly managing the delivery of Social Media Analytics projects of 8+ members in my stint at `LatentView Analytics` 
+   - A `Technical Mentor/Trainer`
+       - enhancing the NLP/Python expertise of fellow team members or reportees 
+
+</details>
 
 ## :man_student: My Educational Background ...
 
