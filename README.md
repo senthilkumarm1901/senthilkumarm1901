@@ -84,8 +84,7 @@
 |--------------------|-------------------------------------------|------------------|
 | Toyota Connected India | Senior ML Engineer                    | Jul'22 - Present  |
 | Ford Motor Company | Senior Analyst <br>Deputy Manager                            | May'18  - Jun'22  |
-| LatentView         | Assistant Manager                         | Oct'16 - Apr'18  |
-|                    | Senior Analyst                            | Apr'14 - Sep'16  |
+| LatentView         | Senior Analyst<br> Assistant Manager                            | Apr'14 - Apr'18 |
 | Beroe              | Analyst<br>Senior Analyst<br>Lead Analyst | Jul'10 - Dec'13  |
 
 
