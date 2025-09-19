@@ -6,7 +6,7 @@
 📧 **Email:** [senthilkumarm1901@gmail.com](mailto:senthilkumarm1901@gmail.com)  
 🔗 **LinkedIn:** [senthilkumarm1901](https://www.linkedin.com/in/senthilkumarm1901/)  
 👨‍💻 **GitHub:** [senthilkumarm1901](https://github.com/senthilkumarm1901)  
-📝 **Blog:** [Learn by Blogging](https://senthilkumarm1901.quarto.pub/learn-by-blogging/blog.html)  & [Medium](https://medium.com/@senthilkumar.m1901) <br>
+📝 **Blog:** [Learn by Blogging](https://senthilkumarm1901.github.io/learn_by_blogging/)  & [Medium](https://medium.com/@senthilkumar.m1901) <br>
 📜 **Résumé:** [View Resume](https://senthilkumarm1901.github.io/myResume/)  
 
 ---
