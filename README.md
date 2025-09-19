@@ -38,8 +38,8 @@ I’m an **Applied AI Engineer** with 12+ years of experience — specializing i
 
 ### 🛠️ Tech Toolbox  
 - **Languages:** Python 🐍 | SQL  
-- **Frameworks & Libraries:** LangGraph | PyTorch ⚡ | Hugging Face 🤗 | SpaCy | Sklearn | Pandas | FastAPI 🚀 | Streamlit  
-- **Cloud & Tools:** AWS ☁️ | Docker 🐳  | Git/GitHub | Linux 🐧  
+- **Frameworks & Libraries:** LangGraph | PyTorch  | Hugging Face 🤗 | SpaCy | Sklearn | Pandas | FastAPI | Streamlit  
+- **Cloud & Tools:** AWS ☁️ | AWS Serverless ☁️  | Git/GitHub | Linux 🐧  | Docker 🐳 | Bash 💻
 - **Specialties:** NLP, GenAI, LLM Apps, ML Pipelines, Semantic Search, Text Clustering  
 
 ---
