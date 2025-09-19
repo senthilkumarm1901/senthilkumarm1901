@@ -47,15 +47,14 @@ I’m an **Applied AI Engineer** with 12+ years of experience — specializing i
 ### 🎓 Education & Learning  
 - **B.E. in Electronics Engineering** – Madras Institute of Technology (2006 – 2010)  
 - **Certifications:**  
-  - DeepLearning.ai – *Deep Learning Specialization* (5 courses)  
-  - Coursera – *Applied ML & Text Mining (UMich)*  
+  - DeepLearning.ai – *Deep Learning Specialization* (5 courses; 2019)   
   - Coursera – *DevOps on AWS Specialization* (2024)  
   - Deeplearning.AI – *GenAI with LLMs* (2023), *MCP Course* (2025)  
 
 ---
 
 ### ✍️ How I Learn  
-- ✏️ Writing: 25+ posts in my blog – [Learn by Blogging](https://senthilkumarm1901.quarto.pub/learn-by-blogging/)  
+- ✏️ Writing: 35+ posts in my blog – [Learn by Blogging](https://senthilkumarm1901.github.io/learn_by_blogging/)  
 - 📰 Publishing: 5+ technical articles in Toyota Connected India Medium channel  | [Medium](https://medium.com/@senthilkumar.m1901)
 - 🎓 Continuous Upskilling: 10+ online certifications & ongoing GenAI research  
 
