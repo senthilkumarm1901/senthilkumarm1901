@@ -20,11 +20,11 @@ I’m an **Applied AI Engineer** with 12+ years of experience — specializing i
 ---
 
 ### 🌟 Professional Highlights  
-- **Senior ML Engineer** – Toyota Connected India (2022 – Present)  
+- **Senior → Lead ML Engineer** – Toyota Connected India (2022 – Present)  
    → Architecting & deploying ML/GenAI apps in **AWS**  
-- **Senior Analyst / Deputy Manager** – Ford (2018 – 2022)  
+- **Data Scientist → Lead Data Scientist** – Ford (2018 – 2022)  
    → Built **ML inference pipelines** & modular **dockerized apps**  
-- **Assistant Manager / Senior Analyst** – LatentView (2014 – 2018)  
+- **Senior Analyst → Assistant Manager** – LatentView (2014 – 2018)  
    → Delivered **Social Media Analytics & NLP** for a Fortune 100 tech client  
 - **Analyst → Lead Analyst** – Beroe (2010 – 2013)  
    → Developed **procurement research insights** for enterprise clients  
