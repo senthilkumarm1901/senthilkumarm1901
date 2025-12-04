@@ -12,7 +12,7 @@
 ---
 
 ### 🌐 About Me  
-I’m an **Applied AI Engineer** with 12+ years of experience — specializing in **NLP, Generative AI, and Cloud ML solutions**.  
+I’m an **Applied AI Engineer** with 15+ years of experience — specializing in **NLP, Generative AI, and Cloud ML solutions**.  
 - 🧑‍💻 **GenAI Engineer**: Building **agentic apps** & **LLM API-powered products**  
 - ☁️ **AWS Cloud Engineer**: Architecting & deploying **serverless, event-driven systems**  
 - 📊 **ML Engineer**: Applying **deep learning** & **NLP pipelines** in production  
