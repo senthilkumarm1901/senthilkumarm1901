@@ -1,6 +1,6 @@
 # 👋 Hello, I'm Senthil Kumar
 
-## 🚀 Applied AI Engineer | Building Agentic AI Systems
+## 🚀 AI & Cloud Architect | Building Applied AI, GenAI & Agentic Systems
 
 📍 **Chennai, India**  
 📧 **Email:** [senthilkumarm1901@gmail.com](mailto:senthilkumarm1901@gmail.com)  
@@ -13,24 +13,24 @@
 
 ### 🌐 About Me
 
-I’m an **Applied AI Engineer** with 15+ years of experience building production-grade **NLP, GenAI, and cloud-native AI systems**.
+I’m an **AI & Cloud Architect** with 15+ years of experience designing and delivering production-grade **NLP, Generative AI, and cloud-native AI platforms**.
 
-- 🧑‍💻 **AI Engineer**: Building agentic applications, RAG systems, and LLM-powered products
-- ☁️ **Cloud Engineer**: Architecting serverless, event-driven AI platforms on AWS
-- 📊 **ML Engineer**: Deploying NLP and deep learning solutions at scale
+- 🏗️ **AI Architect**: Designing agentic applications, RAG systems, and enterprise AI platforms
+- ☁️ **Cloud Architect**: Architecting serverless, event-driven solutions on AWS
+- 🤖 **Applied AI Practitioner**: Delivering NLP and deep learning solutions from prototype to production
 
 ---
 
 ### 🌟 Professional Highlights
 
 - **Lead ML Engineer** – Toyota Connected India (2022 – Present)  
-   → Building GenAI platforms, RAG systems, and agentic AI solutions on AWS
+   → Architecting GenAI platforms, RAG systems, and agentic AI solutions on AWS
 
 - **Lead Data Scientist** – Ford (2018 – 2022)  
-   → Built NLP inference pipelines and modular containerized AI applications
+   → Designed NLP inference platforms and modular containerized AI solutions
 
 - **Assistant Manager** – LatentView Analytics (2014 – 2018)  
-   → Led NLP and social media analytics initiatives for Fortune 100 clients
+   → Led NLP and social media analytics programs for Fortune 100 clients
 
 - **Lead Analyst** – Beroe (2010 – 2013)  
    → Developed procurement intelligence and market research solutions
@@ -49,8 +49,8 @@ I’m an **Applied AI Engineer** with 15+ years of experience building productio
 
 - **Languages:** Python 🐍 | SQL | Bash
 - **Frameworks & Libraries:** LangGraph | Strands | PyTorch | Hugging Face 🤗 | SpaCy | Pandas | FastAPI | Streamlit
-- **Cloud & Tools:** AWS Bedrock ☁️ | AWS Serverless ☁️ | Git/GitHub | Linux 🐧 | Docker 🐳
-- **Specialties:** Agentic AI, RAG, NLP, GenAI Platforms, LLM Applications, ML Pipelines
+- **Cloud & Tools:** AWS Bedrock ☁️ | AWS Serverless ☁️ | OpenSearch | MCP | Git/GitHub | Linux 🐧 | Docker 🐳
+- **Specialties:** AI Architecture, Agentic AI, RAG, NLP, GenAI Platforms, LLM Applications, Cloud-Native Systems
 
 ---
 
@@ -64,13 +64,13 @@ I’m an **Applied AI Engineer** with 15+ years of experience building productio
   - Coursera AWS – *DevOps on AWS Specialization* (2024)
   - DeepLearning.AI – *Building Apps with Anthropic MCP* (2025)
   - O'Reilly – *Modern AI Agents* (2025)
-  - Coursera AWS – *Generative AI Applications with AWS Bedrock Specialization* (2026)
+  - Coursera AWS – *Generative AI Applications with AWS Bedrock* (2026)
 
 ---
 
 ### ✍️ How I Learn
 
-- ✏️ Writing: 40+ technical posts covering AI, ML, Cloud, and Software Engineering
+- ✏️ Writing: 40+ technical posts covering AI, GenAI, Cloud Architecture, and Software Engineering
 - 📰 Publishing: 10+ Medium articles, including contributions to Toyota Connected India engineering blogs
 - 🎓 Continuous Upskilling: Exploring Agentic AI, MCP, AWS Bedrock, and modern LLM systems
 
@@ -78,4 +78,4 @@ I’m an **Applied AI Engineer** with 15+ years of experience building productio
 
 ### 📬 Let’s Connect
 
-If you're building with **Agentic AI, GenAI, NLP, or AWS Cloud** — let's connect and learn together 🚀.
+If you're building AI platforms, agentic systems, GenAI products, or cloud-native architectures, let's connect and learn together 🚀.
